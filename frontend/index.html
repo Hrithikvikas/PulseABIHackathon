@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Eezy Claim - Wound Billing Care</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body class="intro-active">
+    <section class="intro-screen" id="introScreen" aria-label="Patient routing animation">
+      <div class="intro-stage">
+        <div class="intro-copy">
+          <p class="eyebrow">Routing Pipeline</p>
+          <h1>300 patients enter the triage funnel</h1>
+        </div>
+        <canvas id="introCanvas" width="1200" height="700"></canvas>
+        <div class="intro-counts">
+          <div class="intro-vial-label accept"><strong id="introAccept">0</strong><span>Auto accept</span></div>
+          <div class="intro-vial-label review"><strong id="introReview">0</strong><span>Review</span></div>
+          <div class="intro-vial-label reject"><strong id="introReject">0</strong><span>Reject</span></div>
+        </div>
+        <button id="skipIntro" class="skip-intro" type="button">Skip</button>
+      </div>
+    </section>
+
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand">
+          <img class="brand-logo" src="./logo.png" alt="ABI Hackathon logo" />
+          <div>
+            <p class="eyebrow">Eezy Claim</p>
+            <h1>Wound Billing Care</h1>
+          </div>
+        </div>
+        <div class="topbar-actions">
+          <button class="icon-button" id="resetFilters" type="button" aria-label="Reset filters" title="Reset filters">
+            <span aria-hidden="true">↺</span>
+          </button>
+          <button class="icon-button" id="exportCsv" type="button" aria-label="Export CSV" title="Export CSV">
+            <span aria-hidden="true">↓</span>
+          </button>
+        </div>
+      </header>
+
+      <main class="layout">
+        <aside class="filters" aria-label="Filters">
+          <label class="field">
+            <span>Search</span>
+            <input id="searchInput" type="search" placeholder="Patient, ID, reason" autocomplete="off" />
+          </label>
+
+          <label class="field">
+            <span>Facility</span>
+            <select id="facilityFilter">
+              <option value="all">All facilities</option>
+            </select>
+          </label>
+
+          <fieldset class="decision-filter">
+            <legend>Decision</legend>
+            <label><input type="checkbox" name="decision" value="auto_accept" checked /> Auto accept</label>
+            <label><input type="checkbox" name="decision" value="flag_for_review" checked /> Review</label>
+            <label><input type="checkbox" name="decision" value="reject" checked /> Reject</label>
+          </fieldset>
+        </aside>
+
+        <section class="workspace">
+          <section class="funnel-panel" aria-label="Patient routing outcome">
+            <div class="funnel-source">
+              <span>Processed</span>
+              <strong id="funnelTotal">300</strong>
+              <em>patients</em>
+            </div>
+            <div class="funnel-outcomes">
+              <div class="funnel-bucket bucket-accept">
+                <div class="vial-fill"></div>
+                <span>Auto accept</span>
+                <strong id="funnelAccept">0</strong>
+              </div>
+              <div class="funnel-bucket bucket-review">
+                <div class="vial-fill"></div>
+                <span>Review</span>
+                <strong id="funnelReview">0</strong>
+              </div>
+              <div class="funnel-bucket bucket-reject">
+                <div class="vial-fill"></div>
+                <span>Reject</span>
+                <strong id="funnelReject">0</strong>
+              </div>
+            </div>
+          </section>
+
+          <section class="content-grid">
+            <div class="patient-panel">
+              <div class="table-toolbar">
+                <h2>Patients</h2>
+                <span id="visibleCount">0 shown</span>
+              </div>
+              <div class="patient-list" id="patientRows"></div>
+            </div>
+          </section>
+        </section>
+      </main>
+    </div>
+    <div class="modal-backdrop" id="patientModal" hidden>
+      <section class="patient-modal" role="dialog" aria-modal="true" aria-labelledby="detailName">
+        <button class="modal-close" id="closeModal" type="button" aria-label="Close patient details">×</button>
+        <div class="modal-grid">
+          <aside class="detail-panel" aria-label="Patient details">
+            <div class="detail-header">
+              <div>
+                <p id="detailId" class="eyebrow">Select a patient</p>
+                <h2 id="detailName">No patient selected</h2>
+              </div>
+              <span id="detailBadge" class="badge neutral">-</span>
+            </div>
+
+            <section class="body-card" aria-label="Primary wound body view">
+              <div class="body-view" id="bodyView">
+                <div class="body-fallback" id="bodyFallback">Loading 3D body</div>
+              </div>
+              <div class="body-meta">
+                <div>
+                  <h3>Primary Wound</h3>
+                  <p id="bodyStatus">Select a patient</p>
+                </div>
+                <div id="markerTooltip" class="marker-tooltip" hidden></div>
+              </div>
+            </section>
+          </aside>
+
+          <section class="modal-info">
+            <section class="measurement-card" aria-label="Measurements and drainage">
+              <h3>Measurements</h3>
+              <div class="measure-grid">
+                <div><span>Length</span><strong id="measureLength">-</strong></div>
+                <div><span>Width</span><strong id="measureWidth">-</strong></div>
+                <div><span>Depth</span><strong id="measureDepth">-</strong></div>
+                <div><span>Drainage</span><strong id="measureDrainage">-</strong></div>
+              </div>
+            </section>
+
+            <dl class="detail-list">
+              <div><dt>Reason</dt><dd id="detailReason">-</dd></div>
+              <div><dt>History</dt><dd id="detailHistory">-</dd></div>
+              <div><dt>ICD-10</dt><dd id="detailIcd">-</dd></div>
+              <div><dt>Wound type</dt><dd id="detailType">-</dd></div>
+              <div><dt>Stage</dt><dd id="detailStage">-</dd></div>
+              <div><dt>Location</dt><dd id="detailLocation">-</dd></div>
+              <div><dt>Measurements</dt><dd id="detailMeasures">-</dd></div>
+              <div><dt>Drainage</dt><dd id="detailDrainage">-</dd></div>
+              <div><dt>Source</dt><dd id="detailSource">-</dd></div>
+            </dl>
+
+            <div class="note-map">
+              <h3>Mapped Notes</h3>
+              <ul id="detailNotes"></ul>
+            </div>
+          </section>
+        </div>
+      </section>
+    </div>
+    <script src="https://unpkg.com/three@0.160.0/build/three.min.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
