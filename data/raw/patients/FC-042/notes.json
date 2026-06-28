@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "f.morales",
+    "effective_date": "2026-05-11T02:27:00",
+    "id": 396,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Pressure Ulcer Sacral region measures aprx 3.7 x 2.5cm, depth 1.0cm.\nMin drainage serosanguineous. Heel wound also eval - R ankle 2.2x1.5, 0.5cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 252,
+    "pcc_note_id": 95234,
+    "sync_version": 1
+  }
+]

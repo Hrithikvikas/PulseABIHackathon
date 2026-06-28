@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-15",
+    "assessment_type": "HP Skin & Wound",
+    "assessment_type_description": "Quarterly",
+    "completion_date": "2026-05-15",
+    "id": 57,
+    "is_current": true,
+    "org_id": "org_facility_a",
+    "patient_id": 57,
+    "pcc_assessment_id": 55057,
+    "raw_json": "{\"assessmentId\": 55057, \"assessmentDate\": \"2026-05-15\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"WOUND_INFO\", \"questions\": [{\"question\": \"Wound narrative\", \"answer\": \"Abscess to Right cervical / Measures 0.8 cm x 0.8 cm / Stage: N/A / Drainage: serosanguineous, moderate\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 4
+  }
+]

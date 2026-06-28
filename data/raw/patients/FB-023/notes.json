@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "w.oduya",
+    "effective_date": "2026-05-16T20:51:00",
+    "id": 215,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Left lower leg wound site, rates 9/10.\nObjective: Wound assessment performed. Venous venous Left lower leg measures 7.3 cm x 5.0 cm x 0.8 cm.\n  Wound bed: 37% slough, 63% granulation tissue. Periwound: intact.\n  Drainage: heavy. Odor: present, mild.\nAssessment: Venous venous Left lower leg \u2014 improving.\nPlan: Physician notified of wound progression. Offloading boot applied.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_b",
+    "patient_id": 143,
+    "pcc_note_id": 93127,
+    "sync_version": 1
+  }
+]

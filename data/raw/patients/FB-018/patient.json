@@ -1,0 +1,12 @@
+{
+  "birth_date": "1954-02-25",
+  "facility_id": 102,
+  "first_name": "Martha",
+  "gender": "Female",
+  "id": 138,
+  "is_new_admission": false,
+  "last_modified_at": "2026-03-27T07:35:00",
+  "last_name": "Kowalski",
+  "patient_id": "FB-018",
+  "primary_payer_code": "MCA"
+}

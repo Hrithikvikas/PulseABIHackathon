@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "s.okafor",
+    "effective_date": "2026-05-10T13:50:00",
+    "id": 322,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Diabetic Left foot measures aprx 4.3 x 5.0cm, depth 0.6cm.\nMin drainage serosanguineous. Heel wound also eval - L heel 2.6x3.0, 0.3cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_b",
+    "patient_id": 208,
+    "pcc_note_id": 85291,
+    "sync_version": 1
+  }
+]

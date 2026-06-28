@@ -1,0 +1,12 @@
+{
+  "birth_date": "1930-06-09",
+  "facility_id": 101,
+  "first_name": "Virginia",
+  "gender": "Female",
+  "id": 99,
+  "is_new_admission": false,
+  "last_modified_at": "2026-01-01T08:52:00",
+  "last_name": "Rhodes",
+  "patient_id": "FA-099",
+  "primary_payer_code": "MCB"
+}

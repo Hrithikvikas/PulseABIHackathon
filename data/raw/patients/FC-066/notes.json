@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "m.lefebvre",
+    "effective_date": "2026-05-05T09:03:00",
+    "id": 435,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Abscess to Right cervical / Measures 1.3 cm x 1.0 cm / Stage: N/A\nDrainage present - serous, light. No odor noted. Treatment: Pack with iodoform gauze daily.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 276,
+    "pcc_note_id": 85217,
+    "sync_version": 1
+  },
+  {
+    "created_by": "b.nguyen",
+    "effective_date": "2026-05-08T14:02:00",
+    "id": 436,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Abscess Right cervical measures aprx 1.3 x 1.0cm, depth 0.6cm.\nMin drainage serous. Heel wound also eval - L heel 0.8x0.6, 0.3cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 276,
+    "pcc_note_id": 98347,
+    "sync_version": 1
+  }
+]

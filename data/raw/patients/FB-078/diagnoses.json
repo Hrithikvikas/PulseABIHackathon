@@ -1,0 +1,29 @@
+[
+  {
+    "clinical_status": "active",
+    "icd10_code": "T81.31XA",
+    "icd10_description": "Surgical Site Infection \u2013 Abdominal",
+    "id": 571,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2026-01-01",
+    "patient_id": "FB-078"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "F03.90",
+    "icd10_description": "Unspecified dementia without behavioral disturbance",
+    "id": 572,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2024-07-07",
+    "patient_id": "FB-078"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "I70.209",
+    "icd10_description": "Unspecified atherosclerosis of native arteries of extremities",
+    "id": 573,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-12-07",
+    "patient_id": "FB-078"
+  }
+]

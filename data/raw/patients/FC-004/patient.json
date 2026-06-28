@@ -1,0 +1,12 @@
+{
+  "birth_date": "1937-02-08",
+  "facility_id": 103,
+  "first_name": "Robert",
+  "gender": "Male",
+  "id": 214,
+  "is_new_admission": false,
+  "last_modified_at": "2026-05-17T20:15:00",
+  "last_name": "Yuen",
+  "patient_id": "FC-004",
+  "primary_payer_code": "MCA"
+}

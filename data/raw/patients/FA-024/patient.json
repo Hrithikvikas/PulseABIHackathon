@@ -1,0 +1,12 @@
+{
+  "birth_date": "1932-01-13",
+  "facility_id": 101,
+  "first_name": "Ralph",
+  "gender": "Male",
+  "id": 24,
+  "is_new_admission": false,
+  "last_modified_at": "2026-01-31T08:53:00",
+  "last_name": "Nakamura",
+  "patient_id": "FA-024",
+  "primary_payer_code": "MCB"
+}

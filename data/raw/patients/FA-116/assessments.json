@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-13",
+    "assessment_type": "Weekly Wound Information Sheet",
+    "assessment_type_description": "Admissions",
+    "completion_date": "2026-05-13",
+    "id": 116,
+    "is_current": true,
+    "org_id": "org_facility_a",
+    "patient_id": 116,
+    "pcc_assessment_id": 55116,
+    "raw_json": "{\"assessmentId\": 55116, \"assessmentDate\": \"2026-05-13\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"WOUND_INFO\", \"questions\": [{\"question\": \"Wound narrative\", \"answer\": \"Diabetic to Left plantar / Measures 1.4 cm x 3.1 cm / Stage: N/A / Drainage: serous, none\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 3
+  }
+]

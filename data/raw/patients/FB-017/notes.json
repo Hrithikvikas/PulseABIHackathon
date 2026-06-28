@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "w.oduya",
+    "effective_date": "2026-05-13T05:18:00",
+    "id": 205,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightplantar. Meas 1.1x3.8x1.2cm. Light serosang drainage, no odor. Wound bed 30% gran, 70% slough. Periwound erythematous. Collagen dsg changed. Pt tolerated well. Dr. Johansson notified.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_b",
+    "patient_id": 137,
+    "pcc_note_id": 98521,
+    "sync_version": 1
+  },
+  {
+    "created_by": "p.johansson",
+    "effective_date": "2026-05-16T00:30:00",
+    "id": 206,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Diabetic to Right plantar / Measures 1.1 cm x 3.8 cm / Stage: N/A\nDrainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_b",
+    "patient_id": 137,
+    "pcc_note_id": 84568,
+    "sync_version": 1
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "s.okafor",
+    "effective_date": "2026-05-17T19:57:00",
+    "id": 152,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Burn to Left upper arm / Measures 1.9 cm x 2.0 cm / Stage: N/A\nDrainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_a",
+    "patient_id": 102,
+    "pcc_note_id": 86092,
+    "sync_version": 1
+  },
+  {
+    "created_by": "m.lefebvre",
+    "effective_date": "2026-05-10T01:00:00",
+    "id": 153,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Burn Left upper arm measures aprx 1.9 x 2.0cm, depth 0.1cm.\nMin drainage serosanguineous. Heel wound also eval - L ankle 1.1x1.2, 0.1cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_a",
+    "patient_id": 102,
+    "pcc_note_id": 82955,
+    "sync_version": 1
+  }
+]

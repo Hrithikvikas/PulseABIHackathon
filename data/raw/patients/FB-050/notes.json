@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "s.okafor",
+    "effective_date": "2026-05-13T04:20:00",
+    "id": 261,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Left buttock wound site, rates 8/10.\nObjective: Wound assessment performed. Stage 2 pressure ulcer Left buttock measures 3.3 cm x 2.5 cm x 0.3 cm.\n  Wound bed: 60% slough, 40% granulation tissue. Periwound: intact.\n  Drainage: none. Odor: none.\nAssessment: Stage 2 pressure ulcer Left buttock \u2014 improving.\nPlan: Foam dressing change daily. Nutritional consult ordered.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_b",
+    "patient_id": 170,
+    "pcc_note_id": 82155,
+    "sync_version": 1
+  }
+]

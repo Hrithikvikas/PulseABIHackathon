@@ -1,0 +1,20 @@
+[
+  {
+    "clinical_status": "active",
+    "icd10_code": "E11.622",
+    "icd10_description": "Diabetic Foot Ulcer with Gangrene \u2013 Left",
+    "id": 850,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2026-04-07",
+    "patient_id": "FC-082"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "Z96.641",
+    "icd10_description": "Presence of right artificial hip joint",
+    "id": 851,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-04-30",
+    "patient_id": "FC-082"
+  }
+]

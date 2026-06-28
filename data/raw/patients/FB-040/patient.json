@@ -1,0 +1,12 @@
+{
+  "birth_date": "1934-09-03",
+  "facility_id": 102,
+  "first_name": "Velma",
+  "gender": "Female",
+  "id": 160,
+  "is_new_admission": false,
+  "last_modified_at": "2026-04-06T09:09:00",
+  "last_name": "Kane",
+  "patient_id": "FB-040",
+  "primary_payer_code": "HMO"
+}

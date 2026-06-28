@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "g.ramirez",
+    "effective_date": "2026-05-16T13:40:00",
+    "id": 277,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightheel. Meas 1.0x0.9x0.1cm. None serosang drainage, odor present. Wound bed 36% gran, 64% slough. Periwound erythematous. Alginate dsg applied. Pt tolerated well. Dr. Oduya notified.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_b",
+    "patient_id": 180,
+    "pcc_note_id": 86786,
+    "sync_version": 1
+  }
+]

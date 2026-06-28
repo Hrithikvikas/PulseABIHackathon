@@ -1,0 +1,12 @@
+{
+  "birth_date": "1935-08-28",
+  "facility_id": 103,
+  "first_name": "Yolanda",
+  "gender": "Female",
+  "id": 254,
+  "is_new_admission": false,
+  "last_modified_at": "2026-03-12T03:29:00",
+  "last_name": "Lefebvre",
+  "patient_id": "FC-044",
+  "primary_payer_code": "HMO"
+}

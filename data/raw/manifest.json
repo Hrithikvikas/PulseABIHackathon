@@ -1,0 +1,7235 @@
+{
+  "base_url": "https://hackathon.prod.pulsefoundry.ai",
+  "completed_at": "2026-06-28T16:28:29.944962+00:00",
+  "error_count": 0,
+  "errors": [],
+  "facility_ids": [
+    101,
+    102,
+    103
+  ],
+  "patient_count": 300,
+  "request_stats": [
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/patients?facility_id=101",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/patients?facility_id=102",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/patients?facility_id=103",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-001",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-002",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-010",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-009",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-003",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-006",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-007",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-010",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-003",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-001",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=1",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=3",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=1",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=3",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-007",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-002",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-012",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-011",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=2",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-008",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-006",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=2",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-008",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=6",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-013",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=8",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-012",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=8",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=10",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-014",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-014",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=10",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=12",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=14",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-005",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-004",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FA-009",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-005",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-011",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-004",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=6",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=5",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=4",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=14",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-016",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-016",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=7",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=7",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-013",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-018",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=13",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-018",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=18",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=11",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-015",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-015",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=16",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=15",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-017",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=16",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-017",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-019",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=17",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-019",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=17",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=18",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-020",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=19",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=19",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-022",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/assessments?patient_id=12",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-023",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-023",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-020",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=23",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=20",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=11",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=23",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/assessments?patient_id=5",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=20",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=9",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-022",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-024",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=9",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-026",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-027",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=22",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-027",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-026",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-028",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=27",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=22",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=26",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-028",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=28",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-029",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=27",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-021",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/assessments?patient_id=4",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-031",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=26",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-031",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-032",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-025",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-025",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-029",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-030",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=29",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-030",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=29",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=30",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=30",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-034",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-034",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-024",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=34",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-021",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=21",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=34",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/assessments?patient_id=15",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-036",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-036",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=36",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=36",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-035",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FA-032",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-035",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=21",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=25",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-038",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=24",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-038",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=24",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=38",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=38",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-039",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-039",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-040",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=39",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-040",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=35",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=35",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/notes?patient_id=31",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 5,
+      "endpoint": "/pcc/assessments?patient_id=13",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=31",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-033",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-043",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-033",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=40",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=33",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=33",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-044",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-044",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-037",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-042",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-042",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=25",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=42",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=39",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=42",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-047",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-047",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=47",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=47",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-043",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=43",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/notes?patient_id=32",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=32",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 5,
+      "endpoint": "/pcc/assessments?patient_id=28",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=43",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-050",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-037",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-051",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-051",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=40",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-050",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=51",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-052",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=50",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-046",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-052",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=51",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-045",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=52",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-053",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-053",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=44",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=44",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-041",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-041",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=53",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=41",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-048",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=53",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-048",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=48",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FA-045",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=37",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=45",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=37",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=45",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-056",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-057",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-056",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=56",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-054",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=56",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-054",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-058",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=52",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-058",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-059",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=58",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-059",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-049",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=58",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-049",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-055",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=59",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-060",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=59",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=50",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/coverage?patient_id=FA-046",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-062",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=46",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=41",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-062",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=46",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=48",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=62",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-064",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-063",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-065",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=62",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-064",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-066",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=64",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=49",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-066",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=54",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=49",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-061",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-067",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-061",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=61",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=61",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-068",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FA-055",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-068",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=55",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=68",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=55",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=68",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-060",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=60",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-069",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-069",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-065",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=65",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=69",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-070",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=69",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-070",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=65",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=54",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=60",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=66",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-071",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-072",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-073",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-074",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-071",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-072",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-073",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=72",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-074",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=71",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=72",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=71",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=74",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-076",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-075",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-076",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-075",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=75",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=70",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=70",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/coverage?patient_id=FA-057",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=73",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=57",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/assessments?patient_id=64",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=66",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-078",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-079",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/coverage?patient_id=FA-063",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-079",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=79",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=63",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=63",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=79",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-077",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-077",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-081",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-080",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-080",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=77",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-081",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=81",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=77",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=81",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=74",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-082",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-083",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-082",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=57",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=73",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-085",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-086",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-086",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=80",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=76",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=82",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=76",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=82",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-088",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-078",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-083",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=78",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=83",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=78",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=83",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-089",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-090",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-089",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-090",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=89",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=90",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=89",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=90",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-092",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-092",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=92",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-085",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=85",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=85",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=80",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-088",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/assessments?patient_id=75",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-094",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-087",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-093",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=88",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-095",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-087",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 5,
+      "endpoint": "/pcc/coverage?patient_id=FA-067",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-094",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-093",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=88",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-095",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=67",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=95",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=87",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-096",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-096",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=87",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=67",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=96",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-097",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-098",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-098",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=96",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-099",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=93",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-099",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=93",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-100",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=99",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-084",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=99",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-084",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-101",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-091",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=84",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-091",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-101",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=84",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=101",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=91",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=86",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=95",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=86",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-104",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-104",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=104",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=91",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=104",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-105",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-106",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=98",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-105",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=98",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=105",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-100",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-097",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=100",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-102",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-102",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-106",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=106",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=102",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=92",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-108",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=94",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=97",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=94",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=97",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-109",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=101",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-103",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-111",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-103",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-108",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=103",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=108",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=103",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=108",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-112",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-113",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-112",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-113",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-107",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=113",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-107",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=113",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=107",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=107",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=106",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-115",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-116",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=100",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-116",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=116",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-110",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=102",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-109",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-118",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=109",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-118",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=109",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=118",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=118",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-119",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-120",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-120",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=120",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=120",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-117",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-001",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-001",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=112",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=121",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/assessments?patient_id=105",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=121",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-002",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-003",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-002",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-003",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=122",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=123",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=123",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-110",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FA-117",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=110",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-004",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=117",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-004",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=124",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=116",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FA-114",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FA-111",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FA-114",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=114",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FA-119",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=114",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-006",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-006",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=126",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=126",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=124",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-008",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-008",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=117",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=111",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-009",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=111",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-007",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-005",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=112",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-010",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-011",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-007",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-010",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=130",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=130",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-012",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-012",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/coverage?patient_id=FA-115",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=122",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=132",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-013",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=132",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=127",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=127",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-015",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-015",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=135",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=135",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-016",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=128",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-009",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-016",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-005",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=128",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=125",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=136",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-017",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=119",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=136",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-018",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-017",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=137",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-018",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=137",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=138",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-019",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=138",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-019",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-020",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=139",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=139",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=119",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-021",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=110",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-014",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-022",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-023",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-014",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-022",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=134",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=142",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=142",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-013",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-024",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=115",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=125",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=133",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-024",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=115",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-025",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=144",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=133",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-027",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=144",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=129",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-028",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-027",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=129",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=147",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=147",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-030",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-030",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-028",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=148",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-020",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=148",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-025",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=145",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FB-023",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=145",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FB-021",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=143",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=141",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=143",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=141",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/coverage?patient_id=FB-011",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=131",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-029",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-029",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=140",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=149",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=140",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=149",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-036",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-036",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=156",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=150",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=150",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-037",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-032",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-037",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-032",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-033",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=152",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-033",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-031",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=153",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-031",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=153",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-034",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=151",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-034",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=151",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=154",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-039",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=154",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-040",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-026",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-038",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=131",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-038",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-026",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-041",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=146",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=158",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=146",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=156",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-042",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-042",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/assessments?patient_id=134",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-040",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=160",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=158",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=157",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-045",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=157",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-045",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=160",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-047",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-046",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-035",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-047",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=167",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-043",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-043",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=167",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=152",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-049",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-049",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-041",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-039",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=159",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=165",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=162",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=169",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-046",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-044",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-044",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=164",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=164",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-035",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=155",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=155",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-051",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=162",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-052",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-051",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=171",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-052",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=163",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=171",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=163",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=172",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=165",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-053",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-054",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=169",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=166",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=172",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-056",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-057",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-056",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=176",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-057",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-054",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=159",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-053",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=176",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=177",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-058",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=174",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=173",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-059",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=173",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-058",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=174",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-059",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=178",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-061",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=178",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-061",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-062",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-062",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-060",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=166",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-050",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-050",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-055",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=182",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-055",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=175",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=170",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=161",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=170",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-048",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-048",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=168",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=179",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=168",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=179",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-063",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=177",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=182",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=181",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-063",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-066",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-066",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=183",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=186",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-065",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-065",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-060",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=185",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=180",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=180",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=185",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-067",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-069",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-070",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-067",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-069",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=189",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=189",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-071",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=175",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-071",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=191",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-070",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=190",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-064",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=161",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-073",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-073",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=193",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-068",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-068",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=188",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=186",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=183",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-075",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=181",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-075",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=188",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-076",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=195",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-074",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-077",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=190",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-076",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-064",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=195",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=193",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-077",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-074",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-079",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=196",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=197",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=187",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-072",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-079",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=196",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=191",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=197",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-081",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=199",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-082",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-078",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-081",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-080",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-078",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=194",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-080",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=201",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=184",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=184",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FB-082",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=202",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=202",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-085",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=198",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-085",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-083",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-084",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-083",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-084",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=204",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=204",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=187",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-086",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-086",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=206",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=205",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=206",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-088",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=200",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-088",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=200",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=208",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=205",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-087",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-090",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-087",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-090",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=207",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=207",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FB-072",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-001",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FB-089",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FB-089",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=203",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=209",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-001",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=203",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=211",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-002",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=211",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=198",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=194",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-004",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=201",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-004",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-006",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=208",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=209",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-008",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-005",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=192",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-002",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-006",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=192",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=212",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=212",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=216",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-009",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-009",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=216",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=214",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=219",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-011",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=214",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-011",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-012",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-005",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=221",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-012",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=215",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=215",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-013",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-013",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=223",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-008",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=218",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=218",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-014",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-014",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=224",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/notes?patient_id=210",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=224",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-015",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=210",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-015",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=225",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=223",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 5,
+      "endpoint": "/pcc/assessments?patient_id=199",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=225",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-003",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-019",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-019",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-003",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=221",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=229",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=229",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-020",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-021",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-021",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=231",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-018",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-018",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=231",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-022",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-022",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=219",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=232",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-017",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-017",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=227",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=227",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-016",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-016",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-024",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-024",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=226",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=234",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=234",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-010",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-010",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=232",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-026",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-026",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-025",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=236",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-025",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=236",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=220",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=220",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=226",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=228",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FC-020",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=228",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=230",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-023",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=230",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-023",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-031",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=233",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-031",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/notes?patient_id=222",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=233",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=241",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=235",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=222",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=241",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-029",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=235",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-035",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-035",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=245",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=245",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-030",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=213",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-027",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-036",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-027",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-030",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-036",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=240",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-029",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=240",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=239",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-032",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-032",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 5,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-007",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-034",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=246",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-034",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=246",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-038",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=213",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-028",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-039",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-039",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-028",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=237",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=249",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=238",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=238",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=237",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-040",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-041",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-040",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-041",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=250",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=251",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-033",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-033",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=243",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=243",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-042",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=239",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-043",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-043",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=253",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=253",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=244",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-007",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-037",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=251",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=250",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=242",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FC-038",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=248",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=217",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=244",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-047",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=248",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-048",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-048",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-046",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=258",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-046",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=258",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=256",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-049",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=256",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-049",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-050",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=259",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-044",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=217",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-051",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-051",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-045",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=242",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-047",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-052",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-052",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=262",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=262",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-053",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-053",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=263",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FC-037",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=247",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=247",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-045",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=261",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=261",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-055",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-055",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/coverage?patient_id=FC-042",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=252",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-044",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=259",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=254",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=254",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=265",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-057",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-057",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=265",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-058",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=267",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-058",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=268",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=268",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=263",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-059",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-060",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-060",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=270",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-056",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FC-050",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-056",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=260",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=266",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=252",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=260",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-062",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-061",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-061",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-062",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=271",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=272",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=271",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=272",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=257",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=257",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-065",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-065",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=275",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=275",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-066",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-066",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FC-059",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=276",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=269",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=276",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-067",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=266",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=270",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-068",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-064",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-064",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-068",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=278",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=274",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=269",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=274",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-070",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-071",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-071",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-070",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=280",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=281",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=281",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-072",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-072",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-063",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-063",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/notes?patient_id=255",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=282",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=255",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-073",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-069",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-069",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=279",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=267",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-067",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=279",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=277",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-075",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=277",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-075",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-054",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=285",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=285",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=273",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-077",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=273",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=282",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-079",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-079",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=278",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=280",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-081",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-081",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=291",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=291",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-082",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-082",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-077",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-073",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=289",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=283",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=289",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-080",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-083",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-080",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=290",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-074",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=290",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-054",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-084",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-078",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-078",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-076",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-076",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=286",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=286",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-085",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-085",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=292",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-084",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=292",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-086",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FC-074",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/coverage?patient_id=FC-083",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=284",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-086",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 6,
+      "endpoint": "/pcc/assessments?patient_id=249",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=296",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=295",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=288",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=283",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=288",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-089",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=296",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-090",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-090",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/notes?patient_id=293",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=300",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=294",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=293",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=295",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-088",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-088",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/notes?patient_id=298",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/coverage?patient_id=FC-089",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=299",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=284",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 4,
+      "endpoint": "/pcc/notes?patient_id=264",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=264",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=299",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=294",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 2,
+      "endpoint": "/pcc/assessments?patient_id=298",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/diagnoses?patient_id=FC-087",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/coverage?patient_id=FC-087",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/notes?patient_id=297",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=297",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 3,
+      "endpoint": "/pcc/assessments?patient_id=300",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 5,
+      "endpoint": "/pcc/notes?patient_id=287",
+      "error": null,
+      "status": "ok"
+    },
+    {
+      "attempts": 1,
+      "endpoint": "/pcc/assessments?patient_id=287",
+      "error": null,
+      "status": "ok"
+    }
+  ],
+  "run_id": "20260628T162434Z",
+  "since": null,
+  "started_at": "2026-06-28T16:24:34.322506+00:00"
+}

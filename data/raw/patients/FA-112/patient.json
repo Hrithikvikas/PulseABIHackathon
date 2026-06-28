@@ -1,0 +1,12 @@
+{
+  "birth_date": "1936-07-06",
+  "facility_id": 101,
+  "first_name": "Leona",
+  "gender": "Female",
+  "id": 112,
+  "is_new_admission": false,
+  "last_modified_at": "2025-11-25T18:40:00",
+  "last_name": "Haynes",
+  "patient_id": "FA-112",
+  "primary_payer_code": "HMO"
+}

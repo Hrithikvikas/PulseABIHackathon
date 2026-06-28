@@ -1,0 +1,12 @@
+{
+  "birth_date": "1952-06-13",
+  "facility_id": 101,
+  "first_name": "Queenie",
+  "gender": "Female",
+  "id": 77,
+  "is_new_admission": false,
+  "last_modified_at": "2026-01-11T07:41:00",
+  "last_name": "Goldstein",
+  "patient_id": "FA-077",
+  "primary_payer_code": "MCB"
+}

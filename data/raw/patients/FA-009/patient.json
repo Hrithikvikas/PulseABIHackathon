@@ -1,0 +1,12 @@
+{
+  "birth_date": "1941-02-17",
+  "facility_id": 101,
+  "first_name": "Roscoe",
+  "gender": "Male",
+  "id": 9,
+  "is_new_admission": false,
+  "last_modified_at": "2026-05-17T01:54:00",
+  "last_name": "Dunbar",
+  "patient_id": "FA-009",
+  "primary_payer_code": "MCB"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-12",
+    "assessment_type": "HP Skin & Wound",
+    "assessment_type_description": "Annual",
+    "completion_date": "2026-05-12",
+    "id": 63,
+    "is_current": true,
+    "org_id": "org_facility_a",
+    "patient_id": 63,
+    "pcc_assessment_id": 55063,
+    "raw_json": "{\"assessmentId\": 55063, \"assessmentDate\": \"2026-05-12\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"WOUND_INFO\", \"questions\": [{\"question\": \"Wound narrative\", \"answer\": \"Arterial to Right lower extremity / Measures 2.3 cm x 0.8 cm / Stage: N/A / Drainage: serosanguineous, moderate\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 4
+  }
+]

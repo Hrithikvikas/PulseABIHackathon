@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "p.johansson",
+    "effective_date": "2026-05-13T00:09:00",
+    "id": 115,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Abscess to Right cervical / Measures 0.5 cm x 1.1 cm / Stage: N/A\nDrainage present - serosanguineous, moderate. Odor present. Treatment: Pack with iodoform gauze daily.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_a",
+    "patient_id": 76,
+    "pcc_note_id": 90998,
+    "sync_version": 1
+  }
+]

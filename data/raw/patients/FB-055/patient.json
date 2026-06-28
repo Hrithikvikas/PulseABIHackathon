@@ -1,0 +1,12 @@
+{
+  "birth_date": "1943-09-23",
+  "facility_id": 102,
+  "first_name": "Fannie",
+  "gender": "Female",
+  "id": 175,
+  "is_new_admission": false,
+  "last_modified_at": "2026-01-12T05:50:00",
+  "last_name": "Jensen",
+  "patient_id": "FB-055",
+  "primary_payer_code": "MCA"
+}

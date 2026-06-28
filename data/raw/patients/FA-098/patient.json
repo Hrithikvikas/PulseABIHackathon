@@ -1,0 +1,12 @@
+{
+  "birth_date": "1955-11-14",
+  "facility_id": 101,
+  "first_name": "Clifford",
+  "gender": "Male",
+  "id": 98,
+  "is_new_admission": false,
+  "last_modified_at": "2026-04-05T07:09:00",
+  "last_name": "Kim",
+  "patient_id": "FA-098",
+  "primary_payer_code": "MCB"
+}

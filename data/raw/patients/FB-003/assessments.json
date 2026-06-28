@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-15",
+    "assessment_type": "HP Skin & Wound",
+    "assessment_type_description": "Annual",
+    "completion_date": "2026-05-15",
+    "id": 123,
+    "is_current": true,
+    "org_id": "org_facility_b",
+    "patient_id": 123,
+    "pcc_assessment_id": 55123,
+    "raw_json": "{\"assessmentId\": 55123, \"assessmentDate\": \"2026-05-15\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"WOUND_INFO\", \"questions\": [{\"question\": \"Wound narrative\", \"answer\": \"Venous to Left lower leg / Measures 7.1 cm x 5.5 cm / Stage: N/A / Drainage: serosanguineous, heavy\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 1
+  }
+]

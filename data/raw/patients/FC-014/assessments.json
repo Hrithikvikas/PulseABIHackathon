@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-16",
+    "assessment_type": "Weekly Wound Information Sheet",
+    "assessment_type_description": "Quarterly",
+    "completion_date": "2026-05-16",
+    "id": 224,
+    "is_current": true,
+    "org_id": "org_facility_c",
+    "patient_id": 224,
+    "pcc_assessment_id": 55224,
+    "raw_json": "{\"assessmentId\": 55224, \"assessmentDate\": \"2026-05-16\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"LOCATION\", \"questions\": [{\"question\": \"Location\", \"answer\": \"Right buttock\"}, {\"question\": \"Laterality\", \"answer\": \"Right\"}]}, {\"sectionName\": \"WOUND\", \"questions\": [{\"question\": \"Wound Type\", \"answer\": \"Pressure Ulcer\"}, {\"question\": \"Stage\", \"answer\": \"N/A\"}, {\"question\": \"Length (cm)\", \"answer\": \"3.7\"}, {\"question\": \"Width (cm)\", \"answer\": \"3.8\"}, {\"question\": \"Depth (cm)\", \"answer\": \"0.3\"}]}, {\"sectionName\": \"DRAINAGE\", \"questions\": [{\"question\": \"Drainage Present\", \"answer\": \"Yes\"}, {\"question\": \"Drainage Type\", \"answer\": \"Serosanguineous\"}, {\"question\": \"Drainage Amount\", \"answer\": \"Heavy\"}]}, {\"sectionName\": \"WOUND_BED\", \"questions\": [{\"question\": \"Granulation %\", \"answer\": \"34\"}, {\"question\": \"Slough %\", \"answer\": \"12\"}, {\"question\": \"Periwound\", \"answer\": \"Indurated\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 2
+  }
+]

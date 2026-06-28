@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "r.patel",
+    "effective_date": "2026-05-17T12:04:00",
+    "id": 303,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Right heel wound site, rates 9/10.\nObjective: Wound assessment performed. Stage 3 pressure ulcer Right heel measures 4.6 cm x 3.3 cm x 1.2 cm.\n  Wound bed: 38% slough, 62% granulation tissue. Periwound: indurated.\n  Drainage: light. Odor: none.\nAssessment: Stage 3 pressure ulcer Right heel \u2014 improving.\nPlan: Debridement consult ordered. Physician notified of wound progression.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_b",
+    "patient_id": 196,
+    "pcc_note_id": 83626,
+    "sync_version": 1
+  },
+  {
+    "created_by": "p.johansson",
+    "effective_date": "2026-05-11T00:39:00",
+    "id": 304,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Pressure Ulcer Right heel measures aprx 4.6 x 3.3cm, depth 1.2cm.\nMin drainage serous. Heel wound also eval - L heel 2.8x2.0, 0.6cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_b",
+    "patient_id": 196,
+    "pcc_note_id": 85253,
+    "sync_version": 1
+  }
+]

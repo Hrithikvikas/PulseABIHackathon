@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-16",
+    "assessment_type": "Weekly Wound Information Sheet",
+    "assessment_type_description": "Quarterly",
+    "completion_date": "2026-05-16",
+    "id": 152,
+    "is_current": true,
+    "org_id": "org_facility_b",
+    "patient_id": 152,
+    "pcc_assessment_id": 55152,
+    "raw_json": "{\"assessmentId\": 55152, \"assessmentDate\": \"2026-05-16\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"LOCATION\", \"questions\": [{\"question\": \"Location\", \"answer\": \"Abdominal wall\"}, {\"question\": \"Laterality\", \"answer\": \"Right\"}]}, {\"sectionName\": \"WOUND\", \"questions\": [{\"question\": \"Wound Type\", \"answer\": \"Surgical\"}, {\"question\": \"Stage\", \"answer\": \"N/A\"}, {\"question\": \"Length (cm)\", \"answer\": \"4.9\"}, {\"question\": \"Width (cm)\", \"answer\": \"1.6\"}, {\"question\": \"Depth (cm)\", \"answer\": \"1.1\"}]}, {\"sectionName\": \"DRAINAGE\", \"questions\": [{\"question\": \"Drainage Present\", \"answer\": \"Yes\"}, {\"question\": \"Drainage Type\", \"answer\": \"Purulent\"}, {\"question\": \"Drainage Amount\", \"answer\": \"Moderate\"}]}, {\"sectionName\": \"WOUND_BED\", \"questions\": [{\"question\": \"Granulation %\", \"answer\": \"45\"}, {\"question\": \"Slough %\", \"answer\": \"52\"}, {\"question\": \"Periwound\", \"answer\": \"Erythematous\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 1
+  }
+]

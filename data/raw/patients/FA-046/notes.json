@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "r.patel",
+    "effective_date": "2026-05-05T20:58:00",
+    "id": 69,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightplantar. Meas 2.9x3.1x0.8cm. Light serosang drainage, odor present. Wound bed 59% gran, 41% slough. Periwound macerated. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Bergstrom notified.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_a",
+    "patient_id": 46,
+    "pcc_note_id": 80512,
+    "sync_version": 1
+  }
+]

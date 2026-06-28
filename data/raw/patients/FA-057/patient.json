@@ -1,0 +1,12 @@
+{
+  "birth_date": "1948-12-23",
+  "facility_id": 101,
+  "first_name": "Della",
+  "gender": "Female",
+  "id": 57,
+  "is_new_admission": false,
+  "last_modified_at": "2025-12-15T03:26:00",
+  "last_name": "Frazier",
+  "patient_id": "FA-057",
+  "primary_payer_code": "MCB"
+}

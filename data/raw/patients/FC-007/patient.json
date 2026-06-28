@@ -1,0 +1,12 @@
+{
+  "birth_date": "1943-03-02",
+  "facility_id": 103,
+  "first_name": "Maurice",
+  "gender": "Male",
+  "id": 217,
+  "is_new_admission": false,
+  "last_modified_at": "2026-05-15T07:38:00",
+  "last_name": "Ivers",
+  "patient_id": "FC-007",
+  "primary_payer_code": "MCD"
+}

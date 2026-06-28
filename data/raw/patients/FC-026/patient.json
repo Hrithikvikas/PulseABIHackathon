@@ -1,0 +1,12 @@
+{
+  "birth_date": "1940-11-26",
+  "facility_id": 103,
+  "first_name": "Irving",
+  "gender": "Male",
+  "id": 236,
+  "is_new_admission": false,
+  "last_modified_at": "2026-02-18T09:40:00",
+  "last_name": "Yates",
+  "patient_id": "FC-026",
+  "primary_payer_code": "MCB"
+}

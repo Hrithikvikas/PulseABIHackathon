@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-12",
+    "assessment_type": "HP Skin & Wound",
+    "assessment_type_description": "Quarterly",
+    "completion_date": "2026-05-12",
+    "id": 146,
+    "is_current": true,
+    "org_id": "org_facility_b",
+    "patient_id": 146,
+    "pcc_assessment_id": 55146,
+    "raw_json": "{\"assessmentId\": 55146, \"assessmentDate\": \"2026-05-12\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"WOUND_INFO\", \"questions\": [{\"question\": \"Wound narrative\", \"answer\": \"Pressure Ulcer to Left heel / Measures 2.7 cm x 3.2 cm / Stage: Stage 2 / Drainage: serosanguineous, moderate\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 2
+  }
+]

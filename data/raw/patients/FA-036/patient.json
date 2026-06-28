@@ -1,0 +1,12 @@
+{
+  "birth_date": "1931-11-25",
+  "facility_id": 101,
+  "first_name": "Wilfred",
+  "gender": "Male",
+  "id": 36,
+  "is_new_admission": false,
+  "last_modified_at": "2026-01-18T04:33:00",
+  "last_name": "Newton",
+  "patient_id": "FA-036",
+  "primary_payer_code": "HMO"
+}

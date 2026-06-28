@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "l.castillo",
+    "effective_date": "2026-05-10T01:44:00",
+    "id": 19,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightcervica. Meas 1.4x1.2x0.8cm. Light serosang drainage, odor present. Wound bed 45% gran, 55% slough. Periwound intact. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Johansson notified.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_a",
+    "patient_id": 13,
+    "pcc_note_id": 85498,
+    "sync_version": 1
+  }
+]

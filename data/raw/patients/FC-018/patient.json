@@ -1,0 +1,12 @@
+{
+  "birth_date": "1944-07-15",
+  "facility_id": 103,
+  "first_name": "Stanley",
+  "gender": "Male",
+  "id": 228,
+  "is_new_admission": false,
+  "last_modified_at": "2025-11-21T12:23:00",
+  "last_name": "Yuen",
+  "patient_id": "FC-018",
+  "primary_payer_code": "MCD"
+}

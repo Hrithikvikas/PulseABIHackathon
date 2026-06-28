@@ -1,0 +1,12 @@
+{
+  "birth_date": "1936-09-10",
+  "facility_id": 102,
+  "first_name": "Shirley",
+  "gender": "Female",
+  "id": 122,
+  "is_new_admission": true,
+  "last_modified_at": "2026-05-15T14:36:00",
+  "last_name": "Stanton",
+  "patient_id": "FB-002",
+  "primary_payer_code": "MCA"
+}

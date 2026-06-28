@@ -1,0 +1,12 @@
+{
+  "birth_date": "1945-05-05",
+  "facility_id": 103,
+  "first_name": "Alice",
+  "gender": "Female",
+  "id": 211,
+  "is_new_admission": true,
+  "last_modified_at": "2026-05-17T17:38:00",
+  "last_name": "Kelley",
+  "patient_id": "FC-001",
+  "primary_payer_code": "MCB"
+}

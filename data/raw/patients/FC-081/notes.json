@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "w.oduya",
+    "effective_date": "2026-05-08T10:55:00",
+    "id": 460,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Abdominalwal. Meas 4.3x3.2x1.2cm. Heavy serosang drainage, no odor. Wound bed 34% gran, 66% slough. Periwound intact. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Kaczmarek notified.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_c",
+    "patient_id": 291,
+    "pcc_note_id": 80393,
+    "sync_version": 1
+  },
+  {
+    "created_by": "c.nakamura",
+    "effective_date": "2026-05-04T13:32:00",
+    "id": 461,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Abdominal wall wound site, rates 7/10.\nObjective: Wound assessment performed. Surgical surgical Abdominal wall measures 4.3 cm x 3.2 cm x 1.2 cm.\n  Wound bed: 43% slough, 57% granulation tissue. Periwound: erythematous.\n  Drainage: heavy. Odor: present, foul.\nAssessment: Surgical surgical Abdominal wall \u2014 not improving.\nPlan: Alginate dressing applied. Offloading boot applied.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 291,
+    "pcc_note_id": 95743,
+    "sync_version": 1
+  }
+]

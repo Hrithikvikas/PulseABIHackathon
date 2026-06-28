@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "c.nakamura",
+    "effective_date": "2026-05-06T09:43:00",
+    "id": 351,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Right plantar wound site, rates 6/10.\nObjective: Wound assessment performed. Diabetic diabetic Right plantar measures 2.7 cm x 0.9 cm x 0.8 cm.\n  Wound bed: 78% slough, 22% granulation tissue. Periwound: indurated.\n  Drainage: moderate. Odor: none.\nAssessment: Diabetic diabetic Right plantar \u2014 improving.\nPlan: Continue current dressing regimen. Alginate dressing applied.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 227,
+    "pcc_note_id": 85187,
+    "sync_version": 1
+  },
+  {
+    "created_by": "w.oduya",
+    "effective_date": "2026-05-12T03:14:00",
+    "id": 352,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightplantar. Meas 2.7x0.9x0.8cm. Mod serosang drainage, odor present. Wound bed 52% gran, 48% slough. Periwound erythematous. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Nguyen notified.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 227,
+    "pcc_note_id": 95056,
+    "sync_version": 1
+  }
+]

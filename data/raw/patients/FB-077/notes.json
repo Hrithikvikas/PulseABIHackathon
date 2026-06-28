@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "h.kim",
+    "effective_date": "2026-05-06T00:28:00",
+    "id": 305,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftplantar. Meas 1.6x2.4x0.5cm. None serosang drainage, no odor. Wound bed 72% gran, 28% slough. Periwound macerated. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Kaczmarek notified.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_b",
+    "patient_id": 197,
+    "pcc_note_id": 86182,
+    "sync_version": 1
+  },
+  {
+    "created_by": "h.kim",
+    "effective_date": "2026-05-15T10:59:00",
+    "id": 306,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftplantar. Meas 1.6x2.4x0.5cm. None serosang drainage, odor present. Wound bed 44% gran, 56% slough. Periwound intact. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Espinoza notified.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_b",
+    "patient_id": 197,
+    "pcc_note_id": 82979,
+    "sync_version": 1
+  }
+]

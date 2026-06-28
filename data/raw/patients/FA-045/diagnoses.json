@@ -1,0 +1,38 @@
+[
+  {
+    "clinical_status": "active",
+    "icd10_code": "L02.211",
+    "icd10_description": "Abscess \u2013 Right Cervical",
+    "id": 120,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2026-03-04",
+    "patient_id": "FA-045"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "F03.90",
+    "icd10_description": "Unspecified dementia without behavioral disturbance",
+    "id": 121,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2024-12-11",
+    "patient_id": "FA-045"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "Z96.641",
+    "icd10_description": "Presence of right artificial hip joint",
+    "id": 122,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-11-05",
+    "patient_id": "FA-045"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "E11.9",
+    "icd10_description": "Type 2 diabetes mellitus without complications",
+    "id": 123,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2024-10-11",
+    "patient_id": "FA-045"
+  }
+]

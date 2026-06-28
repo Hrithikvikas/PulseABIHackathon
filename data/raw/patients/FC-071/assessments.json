@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-15",
+    "assessment_type": "Weekly Wound Information Sheet",
+    "assessment_type_description": "Annual",
+    "completion_date": "2026-05-15",
+    "id": 281,
+    "is_current": true,
+    "org_id": "org_facility_c",
+    "patient_id": 281,
+    "pcc_assessment_id": 55281,
+    "raw_json": "{\"assessmentId\": 55281, \"assessmentDate\": \"2026-05-15\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"LOCATION\", \"questions\": [{\"question\": \"Location\", \"answer\": \"Left upper arm\"}, {\"question\": \"Laterality\", \"answer\": \"Left\"}]}, {\"sectionName\": \"WOUND\", \"questions\": [{\"question\": \"Wound Type\", \"answer\": \"Burn\"}, {\"question\": \"Stage\", \"answer\": \"N/A\"}, {\"question\": \"Length (cm)\", \"answer\": \"1.8\"}, {\"question\": \"Width (cm)\", \"answer\": \"1.2\"}, {\"question\": \"Depth (cm)\", \"answer\": \"0.0\"}]}, {\"sectionName\": \"DRAINAGE\", \"questions\": [{\"question\": \"Drainage Present\", \"answer\": \"Yes\"}, {\"question\": \"Drainage Type\", \"answer\": \"Purulent\"}, {\"question\": \"Drainage Amount\", \"answer\": \"Light\"}]}, {\"sectionName\": \"WOUND_BED\", \"questions\": [{\"question\": \"Granulation %\", \"answer\": \"38\"}, {\"question\": \"Slough %\", \"answer\": \"30\"}, {\"question\": \"Periwound\", \"answer\": \"Macerated\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 1
+  }
+]

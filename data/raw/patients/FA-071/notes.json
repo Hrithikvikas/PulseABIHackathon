@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "j.thornton",
+    "effective_date": "2026-05-11T05:25:00",
+    "id": 105,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Diabetic Left foot measures aprx 2.8 x 3.9cm, depth 1.6cm.\nMin drainage serosanguineous. Heel wound also eval - R heel 1.7x2.3, 0.8cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_a",
+    "patient_id": 71,
+    "pcc_note_id": 85032,
+    "sync_version": 1
+  },
+  {
+    "created_by": "s.okafor",
+    "effective_date": "2026-05-13T02:20:00",
+    "id": 106,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Diabetic Left foot measures aprx 2.8 x 3.9cm, depth 1.6cm.\nMin drainage serosanguineous. Heel wound also eval - L heel 1.7x2.3, 0.8cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_a",
+    "patient_id": 71,
+    "pcc_note_id": 86542,
+    "sync_version": 1
+  }
+]

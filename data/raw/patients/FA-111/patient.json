@@ -1,0 +1,12 @@
+{
+  "birth_date": "1945-10-14",
+  "facility_id": 101,
+  "first_name": "Martha",
+  "gender": "Female",
+  "id": 111,
+  "is_new_admission": false,
+  "last_modified_at": "2026-01-31T16:28:00",
+  "last_name": "Abbott",
+  "patient_id": "FA-111",
+  "primary_payer_code": "MCB"
+}

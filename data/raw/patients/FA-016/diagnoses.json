@@ -1,0 +1,20 @@
+[
+  {
+    "clinical_status": "active",
+    "icd10_code": "I83.022",
+    "icd10_description": "Venous Stasis Ulcer \u2013 Right Lower Leg",
+    "id": 38,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-11-30",
+    "patient_id": "FA-016"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "E11.9",
+    "icd10_description": "Type 2 diabetes mellitus without complications",
+    "id": 39,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2024-08-31",
+    "patient_id": "FA-016"
+  }
+]

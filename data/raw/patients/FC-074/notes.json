@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "l.castillo",
+    "effective_date": "2026-05-14T17:14:00",
+    "id": 448,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftlowerleg. Meas 6.5x5.0x0.3cm. Heavy serosang drainage, no odor. Wound bed 58% gran, 42% slough. Periwound erythematous. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Johansson notified.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 284,
+    "pcc_note_id": 81433,
+    "sync_version": 1
+  },
+  {
+    "created_by": "a.bergstrom",
+    "effective_date": "2026-05-07T22:35:00",
+    "id": 449,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Left lower leg wound site, rates 4/10.\nObjective: Wound assessment performed. Venous venous Left lower leg measures 6.5 cm x 5.0 cm x 0.3 cm.\n  Wound bed: 59% slough, 41% granulation tissue. Periwound: erythematous.\n  Drainage: heavy. Odor: none.\nAssessment: Venous venous Left lower leg \u2014 not improving.\nPlan: Continue current dressing regimen. Negative pressure wound therapy initiated.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_c",
+    "patient_id": 284,
+    "pcc_note_id": 85016,
+    "sync_version": 1
+  }
+]

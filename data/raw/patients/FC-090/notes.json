@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "p.johansson",
+    "effective_date": "2026-05-10T08:26:00",
+    "id": 473,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftplantar. Meas 1.0x2.9x1.3cm. Light serosang drainage, no odor. Wound bed 75% gran, 25% slough. Periwound erythematous. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Bergstrom notified.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_c",
+    "patient_id": 300,
+    "pcc_note_id": 92231,
+    "sync_version": 1
+  },
+  {
+    "created_by": "d.espinoza",
+    "effective_date": "2026-05-07T12:34:00",
+    "id": 474,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Diabetic Left plantar measures aprx 1.0 x 2.9cm, depth 1.3cm.\nMin drainage serous. Heel wound also eval - R heel 0.6x1.7, 0.7cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_c",
+    "patient_id": 300,
+    "pcc_note_id": 99012,
+    "sync_version": 1
+  }
+]

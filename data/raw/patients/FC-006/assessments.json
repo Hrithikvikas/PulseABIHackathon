@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-13",
+    "assessment_type": "HP Skin & Wound",
+    "assessment_type_description": "Annual",
+    "completion_date": "2026-05-13",
+    "id": 216,
+    "is_current": true,
+    "org_id": "org_facility_c",
+    "patient_id": 216,
+    "pcc_assessment_id": 55216,
+    "raw_json": "{\"assessmentId\": 55216, \"assessmentDate\": \"2026-05-13\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"WOUND_INFO\", \"questions\": [{\"question\": \"Wound narrative\", \"answer\": \"Surgical to Abdominal wall / Measures 1.8 cm x 3.5 cm / Stage: N/A / Drainage: serosanguineous, heavy\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 3
+  }
+]

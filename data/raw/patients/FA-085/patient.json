@@ -1,0 +1,12 @@
+{
+  "birth_date": "1930-08-01",
+  "facility_id": 101,
+  "first_name": "Lewis",
+  "gender": "Male",
+  "id": 85,
+  "is_new_admission": false,
+  "last_modified_at": "2026-02-13T17:21:00",
+  "last_name": "Okonkwo",
+  "patient_id": "FA-085",
+  "primary_payer_code": "HMO"
+}

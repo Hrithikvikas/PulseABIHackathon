@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "d.espinoza",
+    "effective_date": "2026-05-15T05:35:00",
+    "id": 323,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightlowerex. Meas 2.2x1.5x0.4cm. Light serosang drainage, no odor. Wound bed 74% gran, 26% slough. Periwound erythematous. Foam dsg changed. Pt tolerated well. Dr. Lefebvre notified.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_b",
+    "patient_id": 209,
+    "pcc_note_id": 87308,
+    "sync_version": 1
+  }
+]

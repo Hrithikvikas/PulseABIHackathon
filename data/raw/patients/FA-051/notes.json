@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "j.thornton",
+    "effective_date": "2026-05-14T21:39:00",
+    "id": 76,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Abscess Right cervical measures aprx 0.9 x 1.4cm, depth 0.3cm.\nMin drainage serous. Heel wound also eval - L heel 0.5x0.8, 0.1cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_a",
+    "patient_id": 51,
+    "pcc_note_id": 90694,
+    "sync_version": 1
+  }
+]

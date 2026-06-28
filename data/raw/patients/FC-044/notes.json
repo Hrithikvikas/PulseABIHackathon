@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "s.okafor",
+    "effective_date": "2026-05-06T15:14:00",
+    "id": 399,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Left foot wound site, rates 7/10.\nObjective: Wound assessment performed. Diabetic diabetic Left foot measures 2.2 cm x 2.6 cm x 0.6 cm.\n  Wound bed: 21% slough, 79% granulation tissue. Periwound: erythematous.\n  Drainage: moderate. Odor: present, mild.\nAssessment: Diabetic diabetic Left foot \u2014 not improving.\nPlan: Nutritional consult ordered. Foam dressing change daily.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 254,
+    "pcc_note_id": 94202,
+    "sync_version": 1
+  },
+  {
+    "created_by": "l.castillo",
+    "effective_date": "2026-05-14T01:09:00",
+    "id": 400,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftfoot. Meas 2.2x2.6x0.6cm. Mod serosang drainage, no odor. Wound bed 66% gran, 34% slough. Periwound macerated. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Castillo notified.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 254,
+    "pcc_note_id": 92262,
+    "sync_version": 1
+  }
+]

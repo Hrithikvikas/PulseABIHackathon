@@ -1,0 +1,12 @@
+{
+  "birth_date": "1955-01-13",
+  "facility_id": 103,
+  "first_name": "Calvin",
+  "gender": "Male",
+  "id": 264,
+  "is_new_admission": false,
+  "last_modified_at": "2026-02-26T17:21:00",
+  "last_name": "Xavier",
+  "patient_id": "FC-054",
+  "primary_payer_code": "MCD"
+}

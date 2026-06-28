@@ -1,0 +1,12 @@
+{
+  "birth_date": "1931-12-07",
+  "facility_id": 103,
+  "first_name": "Katherine",
+  "gender": "Female",
+  "id": 219,
+  "is_new_admission": false,
+  "last_modified_at": "2026-05-17T14:56:00",
+  "last_name": "Jacobs",
+  "patient_id": "FC-009",
+  "primary_payer_code": "MCB"
+}

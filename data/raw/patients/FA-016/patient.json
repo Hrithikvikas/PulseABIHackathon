@@ -1,0 +1,12 @@
+{
+  "birth_date": "1946-03-10",
+  "facility_id": 101,
+  "first_name": "Olive",
+  "gender": "Female",
+  "id": 16,
+  "is_new_admission": false,
+  "last_modified_at": "2026-01-31T23:15:00",
+  "last_name": "Larsson",
+  "patient_id": "FA-016",
+  "primary_payer_code": "MCB"
+}

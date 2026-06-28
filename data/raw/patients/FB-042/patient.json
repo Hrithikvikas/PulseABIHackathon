@@ -1,0 +1,12 @@
+{
+  "birth_date": "1944-01-03",
+  "facility_id": 102,
+  "first_name": "Velma",
+  "gender": "Female",
+  "id": 162,
+  "is_new_admission": false,
+  "last_modified_at": "2026-01-21T03:50:00",
+  "last_name": "Dawson",
+  "patient_id": "FB-042",
+  "primary_payer_code": "MCD"
+}

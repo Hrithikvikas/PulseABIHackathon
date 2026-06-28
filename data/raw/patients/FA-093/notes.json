@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "t.kaczmarek",
+    "effective_date": "2026-05-08T22:04:00",
+    "id": 138,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Diabetic to Left foot / Measures 4.0 cm x 3.0 cm / Stage: N/A\nDrainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_a",
+    "patient_id": 93,
+    "pcc_note_id": 83053,
+    "sync_version": 1
+  }
+]

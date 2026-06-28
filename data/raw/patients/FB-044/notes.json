@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "r.patel",
+    "effective_date": "2026-05-06T13:55:00",
+    "id": 251,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Venous to Left lower leg / Measures 6.9 cm x 1.7 cm / Stage: N/A\nDrainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_b",
+    "patient_id": 164,
+    "pcc_note_id": 92688,
+    "sync_version": 1
+  },
+  {
+    "created_by": "p.johansson",
+    "effective_date": "2026-05-17T02:04:00",
+    "id": 252,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Venous to Left lower leg / Measures 6.9 cm x 1.7 cm / Stage: N/A\nDrainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_b",
+    "patient_id": 164,
+    "pcc_note_id": 89089,
+    "sync_version": 1
+  }
+]

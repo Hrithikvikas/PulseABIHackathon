@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "l.castillo",
+    "effective_date": "2026-05-06T18:25:00",
+    "id": 249,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftfoot. Meas 3.7x2.1x1.3cm. Heavy serosang drainage, odor present. Wound bed 75% gran, 25% slough. Periwound erythematous. Foam dsg changed. Pt tolerated well. Dr. Oduya notified.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_b",
+    "patient_id": 163,
+    "pcc_note_id": 83891,
+    "sync_version": 1
+  },
+  {
+    "created_by": "m.lefebvre",
+    "effective_date": "2026-05-12T05:42:00",
+    "id": 250,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Diabetic to Left foot / Measures 3.7 cm x 2.1 cm / Stage: N/A\nDrainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_b",
+    "patient_id": 163,
+    "pcc_note_id": 97130,
+    "sync_version": 1
+  }
+]

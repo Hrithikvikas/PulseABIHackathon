@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "l.castillo",
+    "effective_date": "2026-05-06T02:24:00",
+    "id": 452,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftheel. Meas 3.5x3.9x0.8cm. Mod serosang drainage, no odor. Wound bed 58% gran, 42% slough. Periwound intact. Alginate dsg applied. Pt tolerated well. Dr. Espinoza notified.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_c",
+    "patient_id": 287,
+    "pcc_note_id": 93168,
+    "sync_version": 1
+  },
+  {
+    "created_by": "f.morales",
+    "effective_date": "2026-05-05T08:40:00",
+    "id": 453,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftheel. Meas 3.5x3.9x0.8cm. Mod serosang drainage, odor present. Wound bed 39% gran, 61% slough. Periwound macerated. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Kaczmarek notified.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 287,
+    "pcc_note_id": 83180,
+    "sync_version": 1
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-18",
+    "assessment_type": "Weekly Wound Information Sheet",
+    "assessment_type_description": "Quarterly",
+    "completion_date": "2026-05-18",
+    "id": 64,
+    "is_current": true,
+    "org_id": "org_facility_a",
+    "patient_id": 64,
+    "pcc_assessment_id": 55064,
+    "raw_json": "{\"assessmentId\": 55064, \"assessmentDate\": \"2026-05-18\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"LOCATION\", \"questions\": [{\"question\": \"Location\", \"answer\": \"Right lower leg\"}, {\"question\": \"Laterality\", \"answer\": \"Left\"}]}, {\"sectionName\": \"WOUND\", \"questions\": [{\"question\": \"Wound Type\", \"answer\": \"Venous\"}, {\"question\": \"Stage\", \"answer\": \"N/A\"}, {\"question\": \"Length (cm)\", \"answer\": \"4.0\"}, {\"question\": \"Width (cm)\", \"answer\": \"1.8\"}, {\"question\": \"Depth (cm)\", \"answer\": \"0.8\"}]}, {\"sectionName\": \"DRAINAGE\", \"questions\": [{\"question\": \"Drainage Present\", \"answer\": \"Yes\"}, {\"question\": \"Drainage Type\", \"answer\": \"Sanguineous\"}, {\"question\": \"Drainage Amount\", \"answer\": \"Moderate\"}]}, {\"sectionName\": \"WOUND_BED\", \"questions\": [{\"question\": \"Granulation %\", \"answer\": \"49\"}, {\"question\": \"Slough %\", \"answer\": \"33\"}, {\"question\": \"Periwound\", \"answer\": \"Indurated\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 3
+  }
+]

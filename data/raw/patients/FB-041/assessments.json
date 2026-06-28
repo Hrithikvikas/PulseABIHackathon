@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-13",
+    "assessment_type": "HP Skin & Wound",
+    "assessment_type_description": "Annual",
+    "completion_date": "2026-05-13",
+    "id": 161,
+    "is_current": true,
+    "org_id": "org_facility_b",
+    "patient_id": 161,
+    "pcc_assessment_id": 55161,
+    "raw_json": "{\"assessmentId\": 55161, \"assessmentDate\": \"2026-05-13\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"LOCATION\", \"questions\": [{\"question\": \"Location\", \"answer\": \"Right heel\"}, {\"question\": \"Laterality\", \"answer\": \"Left\"}]}, {\"sectionName\": \"WOUND\", \"questions\": [{\"question\": \"Wound Type\", \"answer\": \"Pressure Ulcer\"}, {\"question\": \"Stage\", \"answer\": \"Stage 2\"}, {\"question\": \"Length (cm)\", \"answer\": \"1.3\"}, {\"question\": \"Width (cm)\", \"answer\": \"1.6\"}, {\"question\": \"Depth (cm)\", \"answer\": \"0.4\"}]}, {\"sectionName\": \"DRAINAGE\", \"questions\": [{\"question\": \"Drainage Present\", \"answer\": \"No\"}, {\"question\": \"Drainage Type\", \"answer\": \"Purulent\"}, {\"question\": \"Drainage Amount\", \"answer\": \"None\"}]}, {\"sectionName\": \"WOUND_BED\", \"questions\": [{\"question\": \"Granulation %\", \"answer\": \"76\"}, {\"question\": \"Slough %\", \"answer\": \"29\"}, {\"question\": \"Periwound\", \"answer\": \"Intact\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 2
+  }
+]

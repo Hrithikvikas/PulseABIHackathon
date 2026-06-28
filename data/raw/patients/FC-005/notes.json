@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "b.nguyen",
+    "effective_date": "2026-05-08T04:26:00",
+    "id": 332,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Surgical Abdominal wall measures aprx 1.0 x 1.4cm, depth 1.3cm.\nMin drainage serosanguineous. Heel wound also eval - L ankle 0.6x0.8, 0.7cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 215,
+    "pcc_note_id": 85190,
+    "sync_version": 1
+  }
+]

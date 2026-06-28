@@ -1,0 +1,12 @@
+{
+  "birth_date": "1948-06-25",
+  "facility_id": 103,
+  "first_name": "Harvey",
+  "gender": "Male",
+  "id": 241,
+  "is_new_admission": false,
+  "last_modified_at": "2026-02-17T23:42:00",
+  "last_name": "Jefferson",
+  "patient_id": "FC-031",
+  "primary_payer_code": "HMO"
+}

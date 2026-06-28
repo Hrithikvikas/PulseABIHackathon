@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "l.castillo",
+    "effective_date": "2026-05-09T20:28:00",
+    "id": 320,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Diabetic to Left plantar / Measures 3.9 cm x 3.9 cm / Stage: N/A\nDrainage present - serosanguineous, none. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_b",
+    "patient_id": 207,
+    "pcc_note_id": 80776,
+    "sync_version": 1
+  },
+  {
+    "created_by": "p.johansson",
+    "effective_date": "2026-05-04T22:42:00",
+    "id": 321,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Diabetic to Left plantar / Measures 3.9 cm x 3.9 cm / Stage: N/A\nDrainage present - serosanguineous, none. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_b",
+    "patient_id": 207,
+    "pcc_note_id": 84965,
+    "sync_version": 1
+  }
+]

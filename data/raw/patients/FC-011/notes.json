@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "r.patel",
+    "effective_date": "2026-05-16T02:57:00",
+    "id": 341,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Diabetic to Right plantar / Measures 4.7 cm x 1.4 cm / Stage: N/A\nDrainage present - serosanguineous, none. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_c",
+    "patient_id": 221,
+    "pcc_note_id": 83639,
+    "sync_version": 1
+  },
+  {
+    "created_by": "d.espinoza",
+    "effective_date": "2026-05-16T15:46:00",
+    "id": 342,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Right plantar wound site, rates 2/10.\nObjective: Wound assessment performed. Diabetic diabetic Right plantar measures 4.7 cm x 1.4 cm x 0.4 cm.\n  Wound bed: 23% slough, 77% granulation tissue. Periwound: intact.\n  Drainage: none. Odor: present, foul.\nAssessment: Diabetic diabetic Right plantar \u2014 not improving.\nPlan: Offloading boot applied. Alginate dressing applied.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_c",
+    "patient_id": 221,
+    "pcc_note_id": 92842,
+    "sync_version": 1
+  }
+]

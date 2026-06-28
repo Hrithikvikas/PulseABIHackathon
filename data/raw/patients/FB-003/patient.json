@@ -1,0 +1,12 @@
+{
+  "birth_date": "1933-03-21",
+  "facility_id": 102,
+  "first_name": "Phyllis",
+  "gender": "Female",
+  "id": 123,
+  "is_new_admission": true,
+  "last_modified_at": "2026-05-17T19:14:00",
+  "last_name": "Dominguez",
+  "patient_id": "FB-003",
+  "primary_payer_code": "HMO"
+}

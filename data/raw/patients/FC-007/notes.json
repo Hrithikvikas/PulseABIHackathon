@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "b.nguyen",
+    "effective_date": "2026-05-12T17:31:00",
+    "id": 334,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftfoot. Meas 2.7x2.4x0.8cm. Heavy serosang drainage, no odor. Wound bed 79% gran, 21% slough. Periwound macerated. Foam dsg changed. Pt tolerated well. Dr. Thornton notified.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 217,
+    "pcc_note_id": 87623,
+    "sync_version": 1
+  },
+  {
+    "created_by": "g.ramirez",
+    "effective_date": "2026-05-06T04:04:00",
+    "id": 335,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Left foot wound site, rates 8/10.\nObjective: Wound assessment performed. Diabetic diabetic Left foot measures 2.7 cm x 2.4 cm x 0.8 cm.\n  Wound bed: 62% slough, 38% granulation tissue. Periwound: macerated.\n  Drainage: heavy. Odor: present, foul.\nAssessment: Diabetic diabetic Left foot \u2014 improving.\nPlan: Negative pressure wound therapy initiated. Foam dressing change daily.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 217,
+    "pcc_note_id": 98807,
+    "sync_version": 1
+  }
+]

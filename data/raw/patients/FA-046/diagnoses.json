@@ -1,0 +1,38 @@
+[
+  {
+    "clinical_status": "active",
+    "icd10_code": "E11.621",
+    "icd10_description": "Diabetic Foot Ulcer \u2013 Right Plantar",
+    "id": 124,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2026-01-18",
+    "patient_id": "FA-046"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "J44.1",
+    "icd10_description": "Chronic obstructive pulmonary disease with acute exacerbation",
+    "id": 125,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-08-04",
+    "patient_id": "FA-046"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "M79.3",
+    "icd10_description": "Panniculitis, unspecified",
+    "id": 126,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2026-03-17",
+    "patient_id": "FA-046"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "I50.9",
+    "icd10_description": "Heart failure, unspecified",
+    "id": 127,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2026-02-25",
+    "patient_id": "FA-046"
+  }
+]

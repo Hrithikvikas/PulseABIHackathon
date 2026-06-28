@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-16",
+    "assessment_type": "Weekly Wound Information Sheet",
+    "assessment_type_description": "Admissions",
+    "completion_date": "2026-05-16",
+    "id": 193,
+    "is_current": true,
+    "org_id": "org_facility_b",
+    "patient_id": 193,
+    "pcc_assessment_id": 55193,
+    "raw_json": "{\"assessmentId\": 55193, \"assessmentDate\": \"2026-05-16\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"WOUND_INFO\", \"questions\": [{\"question\": \"Wound narrative\", \"answer\": \"Surgical to Abdominal wall / Measures 4.9 cm x 1.6 cm / Stage: N/A / Drainage: serosanguineous, moderate\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 3
+  }
+]

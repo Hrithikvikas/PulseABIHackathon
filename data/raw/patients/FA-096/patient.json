@@ -1,0 +1,12 @@
+{
+  "birth_date": "1933-01-29",
+  "facility_id": 101,
+  "first_name": "Winnie",
+  "gender": "Female",
+  "id": 96,
+  "is_new_admission": false,
+  "last_modified_at": "2025-11-29T14:14:00",
+  "last_name": "Dominguez",
+  "patient_id": "FA-096",
+  "primary_payer_code": "MCB"
+}

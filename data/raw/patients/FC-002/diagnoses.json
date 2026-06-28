@@ -1,0 +1,29 @@
+[
+  {
+    "clinical_status": "active",
+    "icd10_code": "E11.621",
+    "icd10_description": "Diabetic Foot Ulcer \u2013 Right Plantar",
+    "id": 615,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2026-04-11",
+    "patient_id": "FC-002"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "E66.9",
+    "icd10_description": "Obesity, unspecified",
+    "id": 616,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2024-10-22",
+    "patient_id": "FC-002"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "I70.209",
+    "icd10_description": "Unspecified atherosclerosis of native arteries of extremities",
+    "id": 617,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-11-13",
+    "patient_id": "FC-002"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "c.nakamura",
+    "effective_date": "2026-05-10T14:37:00",
+    "id": 414,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Arterial Right lower extremity measures aprx 2.0 x 0.8cm, depth 1.0cm.\nMin drainage serosanguineous. Heel wound also eval - R heel 1.2x0.5, 0.5cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Mon.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_c",
+    "patient_id": 263,
+    "pcc_note_id": 90034,
+    "sync_version": 1
+  },
+  {
+    "created_by": "f.morales",
+    "effective_date": "2026-05-11T05:35:00",
+    "id": 415,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Arterial Right lower extremity measures aprx 2.0 x 0.8cm, depth 1.0cm.\nMin drainage serosanguineous. Heel wound also eval - L ankle 1.2x0.5, 0.5cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_c",
+    "patient_id": 263,
+    "pcc_note_id": 80185,
+    "sync_version": 1
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "p.johansson",
+    "effective_date": "2026-05-10T04:00:00",
+    "id": 165,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightlowerle. Meas 2.4x4.5x0.1cm. Mod serosang drainage, no odor. Wound bed 33% gran, 67% slough. Periwound macerated. Alginate dsg applied. Pt tolerated well. Dr. Morales notified.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_a",
+    "patient_id": 110,
+    "pcc_note_id": 92735,
+    "sync_version": 1
+  },
+  {
+    "created_by": "d.espinoza",
+    "effective_date": "2026-05-17T14:05:00",
+    "id": 166,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Venous Right lower leg measures aprx 2.4 x 4.5cm, depth 0.1cm.\nMin drainage serosanguineous. Heel wound also eval - L ankle 1.4x2.7, 0.1cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Mon.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_a",
+    "patient_id": 110,
+    "pcc_note_id": 87574,
+    "sync_version": 1
+  }
+]

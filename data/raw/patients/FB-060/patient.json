@@ -1,0 +1,12 @@
+{
+  "birth_date": "1943-10-31",
+  "facility_id": 102,
+  "first_name": "Ethel",
+  "gender": "Female",
+  "id": 180,
+  "is_new_admission": false,
+  "last_modified_at": "2026-04-05T05:00:00",
+  "last_name": "Xiong",
+  "patient_id": "FB-060",
+  "primary_payer_code": "MCA"
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "t.kaczmarek",
+    "effective_date": "2026-05-13T18:53:00",
+    "id": 369,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Venous Left lower leg measures aprx 3.6 x 1.9cm, depth 0.2cm.\nMin drainage serosanguineous. Heel wound also eval - L ankle 2.2x1.1, 0.1cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 238,
+    "pcc_note_id": 88973,
+    "sync_version": 1
+  },
+  {
+    "created_by": "f.morales",
+    "effective_date": "2026-05-15T14:02:00",
+    "id": 370,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Venous to Left lower leg / Measures 3.6 cm x 1.9 cm / Stage: N/A\nDrainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 238,
+    "pcc_note_id": 99862,
+    "sync_version": 1
+  }
+]

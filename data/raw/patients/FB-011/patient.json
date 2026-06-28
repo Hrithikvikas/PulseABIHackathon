@@ -1,0 +1,12 @@
+{
+  "birth_date": "1957-06-22",
+  "facility_id": 102,
+  "first_name": "Phyllis",
+  "gender": "Female",
+  "id": 131,
+  "is_new_admission": false,
+  "last_modified_at": "2026-03-09T23:04:00",
+  "last_name": "Lefebvre",
+  "patient_id": "FB-011",
+  "primary_payer_code": "MCA"
+}

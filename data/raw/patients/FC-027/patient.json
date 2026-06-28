@@ -1,0 +1,12 @@
+{
+  "birth_date": "1937-06-25",
+  "facility_id": 103,
+  "first_name": "Opal",
+  "gender": "Female",
+  "id": 237,
+  "is_new_admission": false,
+  "last_modified_at": "2026-01-01T15:12:00",
+  "last_name": "Dominguez",
+  "patient_id": "FC-027",
+  "primary_payer_code": "MCB"
+}

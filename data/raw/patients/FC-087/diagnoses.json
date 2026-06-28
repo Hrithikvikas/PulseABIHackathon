@@ -1,0 +1,38 @@
+[
+  {
+    "clinical_status": "active",
+    "icd10_code": "E11.621",
+    "icd10_description": "Diabetic Foot Ulcer \u2013 Right Plantar",
+    "id": 863,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-10-03",
+    "patient_id": "FC-087"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "G30.9",
+    "icd10_description": "Alzheimer disease, unspecified",
+    "id": 864,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2024-10-14",
+    "patient_id": "FC-087"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "J44.1",
+    "icd10_description": "Chronic obstructive pulmonary disease with acute exacerbation",
+    "id": 865,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-05-28",
+    "patient_id": "FC-087"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "E11.9",
+    "icd10_description": "Type 2 diabetes mellitus without complications",
+    "id": 866,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2024-11-01",
+    "patient_id": "FC-087"
+  }
+]

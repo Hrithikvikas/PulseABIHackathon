@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "d.espinoza",
+    "effective_date": "2026-05-08T01:12:00",
+    "id": 125,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightlowerex. Meas 1.6x1.7x0.9cm. Light serosang drainage, no odor. Wound bed 36% gran, 64% slough. Periwound macerated. Collagen dsg changed. Pt tolerated well. Dr. Nguyen notified.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_a",
+    "patient_id": 83,
+    "pcc_note_id": 88965,
+    "sync_version": 1
+  }
+]

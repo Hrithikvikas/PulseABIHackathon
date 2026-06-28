@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "t.kaczmarek",
+    "effective_date": "2026-05-04T18:05:00",
+    "id": 470,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Right heel wound site, rates 5/10.\nObjective: Wound assessment performed. Stage 2 pressure ulcer Right heel measures 3.0 cm x 3.2 cm x 0.3 cm.\n  Wound bed: 44% slough, 56% granulation tissue. Periwound: erythematous.\n  Drainage: light. Odor: none.\nAssessment: Stage 2 pressure ulcer Right heel \u2014 not improving.\nPlan: Foam dressing change daily. Debridement consult ordered.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 298,
+    "pcc_note_id": 86761,
+    "sync_version": 1
+  },
+  {
+    "created_by": "t.kaczmarek",
+    "effective_date": "2026-05-10T11:22:00",
+    "id": 471,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Pressure Ulcer to Right heel / Measures 3.0 cm x 3.2 cm / Stage: Stage 2\nDrainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_c",
+    "patient_id": 298,
+    "pcc_note_id": 96111,
+    "sync_version": 1
+  }
+]

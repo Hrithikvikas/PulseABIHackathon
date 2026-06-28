@@ -1,0 +1,12 @@
+{
+  "birth_date": "1946-08-29",
+  "facility_id": 103,
+  "first_name": "Thelma",
+  "gender": "Female",
+  "id": 235,
+  "is_new_admission": false,
+  "last_modified_at": "2026-01-02T21:19:00",
+  "last_name": "Gibson",
+  "patient_id": "FC-025",
+  "primary_payer_code": "HMO"
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "clinical_status": "active",
+    "icd10_code": "L89.304",
+    "icd10_description": "Stage 4 Pressure Ulcer \u2013 Right buttock",
+    "id": 644,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-10-31",
+    "patient_id": "FC-012"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "I50.9",
+    "icd10_description": "Heart failure, unspecified",
+    "id": 645,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2024-05-07",
+    "patient_id": "FC-012"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "E11.9",
+    "icd10_description": "Type 2 diabetes mellitus without complications",
+    "id": 646,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2024-11-20",
+    "patient_id": "FC-012"
+  }
+]

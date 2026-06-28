@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "w.oduya",
+    "effective_date": "2026-05-05T13:51:00",
+    "id": 291,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Surgical Abdominal wall measures aprx 4.4 x 2.6cm, depth 1.4cm.\nMin drainage serosanguineous. Heel wound also eval - R ankle 2.6x1.6, 0.7cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_b",
+    "patient_id": 189,
+    "pcc_note_id": 87375,
+    "sync_version": 1
+  },
+  {
+    "created_by": "d.espinoza",
+    "effective_date": "2026-05-07T18:59:00",
+    "id": 292,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Abdominal wall wound site, rates 4/10.\nObjective: Wound assessment performed. Surgical surgical Abdominal wall measures 4.4 cm x 2.6 cm x 1.4 cm.\n  Wound bed: 26% slough, 74% granulation tissue. Periwound: indurated.\n  Drainage: moderate. Odor: present, foul.\nAssessment: Surgical surgical Abdominal wall \u2014 improving.\nPlan: Nutritional consult ordered. Debridement consult ordered.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_b",
+    "patient_id": 189,
+    "pcc_note_id": 91056,
+    "sync_version": 1
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "d.espinoza",
+    "effective_date": "2026-05-13T13:48:00",
+    "id": 462,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftfoot. Meas 5.5x2.0x1.0cm. Heavy serosang drainage, odor present. Wound bed 67% gran, 33% slough. Periwound intact. Alginate dsg applied. Pt tolerated well. Dr. Okafor notified.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 292,
+    "pcc_note_id": 96296,
+    "sync_version": 1
+  }
+]

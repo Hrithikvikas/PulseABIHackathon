@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-15",
+    "assessment_type": "Weekly Wound Information Sheet",
+    "assessment_type_description": "Admissions",
+    "completion_date": "2026-05-15",
+    "id": 182,
+    "is_current": true,
+    "org_id": "org_facility_b",
+    "patient_id": 182,
+    "pcc_assessment_id": 55182,
+    "raw_json": "{\"assessmentId\": 55182, \"assessmentDate\": \"2026-05-15\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"LOCATION\", \"questions\": [{\"question\": \"Location\", \"answer\": \"Left buttock\"}, {\"question\": \"Laterality\", \"answer\": \"Left\"}]}, {\"sectionName\": \"WOUND\", \"questions\": [{\"question\": \"Wound Type\", \"answer\": \"Pressure Ulcer\"}, {\"question\": \"Stage\", \"answer\": \"N/A\"}, {\"question\": \"Length (cm)\", \"answer\": \"5.1\"}, {\"question\": \"Width (cm)\", \"answer\": \"1.6\"}, {\"question\": \"Depth (cm)\", \"answer\": \"1.6\"}]}, {\"sectionName\": \"DRAINAGE\", \"questions\": [{\"question\": \"Drainage Present\", \"answer\": \"Yes\"}, {\"question\": \"Drainage Type\", \"answer\": \"Serous\"}, {\"question\": \"Drainage Amount\", \"answer\": \"Heavy\"}]}, {\"sectionName\": \"WOUND_BED\", \"questions\": [{\"question\": \"Granulation %\", \"answer\": \"28\"}, {\"question\": \"Slough %\", \"answer\": \"15\"}, {\"question\": \"Periwound\", \"answer\": \"Macerated\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 1
+  }
+]

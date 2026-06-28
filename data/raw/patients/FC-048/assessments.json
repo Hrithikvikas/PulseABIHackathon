@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-18",
+    "assessment_type": "HP Skin & Wound",
+    "assessment_type_description": "Quarterly",
+    "completion_date": "2026-05-18",
+    "id": 258,
+    "is_current": true,
+    "org_id": "org_facility_c",
+    "patient_id": 258,
+    "pcc_assessment_id": 55258,
+    "raw_json": "{\"assessmentId\": 55258, \"assessmentDate\": \"2026-05-18\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"WOUND_INFO\", \"questions\": [{\"question\": \"Wound narrative\", \"answer\": \"Pressure Ulcer to Sacral region / Measures 2.8 cm x 3.1 cm / Stage: N/A / Drainage: serosanguineous, heavy\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 4
+  }
+]

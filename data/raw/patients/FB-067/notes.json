@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "t.kaczmarek",
+    "effective_date": "2026-05-04T09:50:00",
+    "id": 288,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightlowerex. Meas 2.3x1.1x0.4cm. Light serosang drainage, no odor. Wound bed 61% gran, 39% slough. Periwound intact. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Kim notified.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_b",
+    "patient_id": 187,
+    "pcc_note_id": 83790,
+    "sync_version": 1
+  }
+]

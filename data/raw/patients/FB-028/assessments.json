@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-15",
+    "assessment_type": "Weekly Wound Information Sheet",
+    "assessment_type_description": "Quarterly",
+    "completion_date": "2026-05-15",
+    "id": 148,
+    "is_current": true,
+    "org_id": "org_facility_b",
+    "patient_id": 148,
+    "pcc_assessment_id": 55148,
+    "raw_json": "{\"assessmentId\": 55148, \"assessmentDate\": \"2026-05-15\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"LOCATION\", \"questions\": [{\"question\": \"Location\", \"answer\": \"Right lower extremity\"}, {\"question\": \"Laterality\", \"answer\": \"Left\"}]}, {\"sectionName\": \"WOUND\", \"questions\": [{\"question\": \"Wound Type\", \"answer\": \"Arterial\"}, {\"question\": \"Stage\", \"answer\": \"N/A\"}, {\"question\": \"Length (cm)\", \"answer\": \"1.1\"}, {\"question\": \"Width (cm)\", \"answer\": \"2.2\"}, {\"question\": \"Depth (cm)\", \"answer\": \"0.6\"}]}, {\"sectionName\": \"DRAINAGE\", \"questions\": [{\"question\": \"Drainage Present\", \"answer\": \"Yes\"}, {\"question\": \"Drainage Type\", \"answer\": \"Serous\"}, {\"question\": \"Drainage Amount\", \"answer\": \"Moderate\"}]}, {\"sectionName\": \"WOUND_BED\", \"questions\": [{\"question\": \"Granulation %\", \"answer\": \"27\"}, {\"question\": \"Slough %\", \"answer\": \"46\"}, {\"question\": \"Periwound\", \"answer\": \"Intact\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 3
+  }
+]

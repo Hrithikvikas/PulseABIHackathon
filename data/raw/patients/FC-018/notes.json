@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "h.kim",
+    "effective_date": "2026-05-17T04:44:00",
+    "id": 353,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightlowerex. Meas 2.2x1.5x0.7cm. Mod serosang drainage, no odor. Wound bed 36% gran, 64% slough. Periwound intact. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Morales notified.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 228,
+    "pcc_note_id": 81226,
+    "sync_version": 1
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "a.bergstrom",
+    "effective_date": "2026-05-14T22:47:00",
+    "id": 324,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Venous Left lower leg measures aprx 3.6 x 1.2cm, depth 0.5cm.\nMin drainage serosanguineous. Heel wound also eval - R ankle 2.2x0.7, 0.2cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Mon.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_b",
+    "patient_id": 210,
+    "pcc_note_id": 93858,
+    "sync_version": 1
+  }
+]

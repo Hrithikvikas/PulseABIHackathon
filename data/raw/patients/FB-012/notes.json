@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "f.morales",
+    "effective_date": "2026-05-06T22:01:00",
+    "id": 196,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Burn to Left upper arm / Measures 1.3 cm x 2.3 cm / Stage: N/A\nDrainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_b",
+    "patient_id": 132,
+    "pcc_note_id": 85178,
+    "sync_version": 1
+  },
+  {
+    "created_by": "r.patel",
+    "effective_date": "2026-05-08T13:34:00",
+    "id": 197,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Left upper arm wound site, rates 9/10.\nObjective: Wound assessment performed. Burn burn Left upper arm measures 1.3 cm x 2.3 cm x 0.0 cm.\n  Wound bed: 48% slough, 52% granulation tissue. Periwound: intact.\n  Drainage: moderate. Odor: none.\nAssessment: Burn burn Left upper arm \u2014 improving.\nPlan: Negative pressure wound therapy initiated. Continue current dressing regimen.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_b",
+    "patient_id": 132,
+    "pcc_note_id": 90672,
+    "sync_version": 1
+  }
+]

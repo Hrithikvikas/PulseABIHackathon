@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-12",
+    "assessment_type": "HP Skin & Wound",
+    "assessment_type_description": "Quarterly",
+    "completion_date": "2026-05-12",
+    "id": 160,
+    "is_current": true,
+    "org_id": "org_facility_b",
+    "patient_id": 160,
+    "pcc_assessment_id": 55160,
+    "raw_json": "{\"assessmentId\": 55160, \"assessmentDate\": \"2026-05-12\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"LOCATION\", \"questions\": [{\"question\": \"Location\", \"answer\": \"Left lower leg\"}, {\"question\": \"Laterality\", \"answer\": \"Right\"}]}, {\"sectionName\": \"WOUND\", \"questions\": [{\"question\": \"Wound Type\", \"answer\": \"Venous\"}, {\"question\": \"Stage\", \"answer\": \"N/A\"}, {\"question\": \"Length (cm)\", \"answer\": \"5.6\"}, {\"question\": \"Width (cm)\", \"answer\": \"5.4\"}, {\"question\": \"Depth (cm)\", \"answer\": \"0.7\"}]}, {\"sectionName\": \"DRAINAGE\", \"questions\": [{\"question\": \"Drainage Present\", \"answer\": \"Yes\"}, {\"question\": \"Drainage Type\", \"answer\": \"Serosanguineous\"}, {\"question\": \"Drainage Amount\", \"answer\": \"Moderate\"}]}, {\"sectionName\": \"WOUND_BED\", \"questions\": [{\"question\": \"Granulation %\", \"answer\": \"43\"}, {\"question\": \"Slough %\", \"answer\": \"55\"}, {\"question\": \"Periwound\", \"answer\": \"Indurated\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 4
+  }
+]

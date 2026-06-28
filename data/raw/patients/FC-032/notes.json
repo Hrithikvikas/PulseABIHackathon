@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "w.oduya",
+    "effective_date": "2026-05-05T00:34:00",
+    "id": 377,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftlowerleg. Meas 3.1x2.4x0.2cm. Heavy serosang drainage, odor present. Wound bed 77% gran, 23% slough. Periwound macerated. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Okafor notified.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 242,
+    "pcc_note_id": 80483,
+    "sync_version": 1
+  },
+  {
+    "created_by": "a.bergstrom",
+    "effective_date": "2026-05-05T13:33:00",
+    "id": 378,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftlowerleg. Meas 3.1x2.4x0.2cm. Heavy serosang drainage, no odor. Wound bed 36% gran, 64% slough. Periwound erythematous. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Patel notified.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 242,
+    "pcc_note_id": 89900,
+    "sync_version": 1
+  }
+]

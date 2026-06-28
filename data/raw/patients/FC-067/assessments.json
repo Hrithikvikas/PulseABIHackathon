@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-14",
+    "assessment_type": "HP Skin & Wound",
+    "assessment_type_description": "Admissions",
+    "completion_date": "2026-05-14",
+    "id": 277,
+    "is_current": true,
+    "org_id": "org_facility_c",
+    "patient_id": 277,
+    "pcc_assessment_id": 55277,
+    "raw_json": "{\"assessmentId\": 55277, \"assessmentDate\": \"2026-05-14\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"LOCATION\", \"questions\": [{\"question\": \"Location\", \"answer\": \"Left buttock\"}, {\"question\": \"Laterality\", \"answer\": \"Bilateral\"}]}, {\"sectionName\": \"WOUND\", \"questions\": [{\"question\": \"Wound Type\", \"answer\": \"Pressure Ulcer\"}, {\"question\": \"Stage\", \"answer\": \"Stage 3\"}, {\"question\": \"Length (cm)\", \"answer\": \"7.0\"}, {\"question\": \"Width (cm)\", \"answer\": \"2.1\"}, {\"question\": \"Depth (cm)\", \"answer\": \"0.9\"}]}, {\"sectionName\": \"DRAINAGE\", \"questions\": [{\"question\": \"Drainage Present\", \"answer\": \"Yes\"}, {\"question\": \"Drainage Type\", \"answer\": \"Purulent\"}, {\"question\": \"Drainage Amount\", \"answer\": \"Heavy\"}]}, {\"sectionName\": \"WOUND_BED\", \"questions\": [{\"question\": \"Granulation %\", \"answer\": \"67\"}, {\"question\": \"Slough %\", \"answer\": \"26\"}, {\"question\": \"Periwound\", \"answer\": \"Erythematous\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 2
+  }
+]

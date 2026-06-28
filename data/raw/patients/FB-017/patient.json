@@ -1,0 +1,12 @@
+{
+  "birth_date": "1931-07-23",
+  "facility_id": 102,
+  "first_name": "Charlotte",
+  "gender": "Female",
+  "id": 137,
+  "is_new_admission": false,
+  "last_modified_at": "2026-01-27T12:51:00",
+  "last_name": "Estrada",
+  "patient_id": "FB-017",
+  "primary_payer_code": "HMO"
+}

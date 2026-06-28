@@ -1,0 +1,12 @@
+{
+  "birth_date": "1937-08-25",
+  "facility_id": 101,
+  "first_name": "Rosa",
+  "gender": "Female",
+  "id": 80,
+  "is_new_admission": false,
+  "last_modified_at": "2026-01-17T09:21:00",
+  "last_name": "Nakamura",
+  "patient_id": "FA-080",
+  "primary_payer_code": "MCB"
+}

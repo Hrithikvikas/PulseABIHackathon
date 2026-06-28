@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "w.oduya",
+    "effective_date": "2026-05-13T14:08:00",
+    "id": 382,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftfoot. Meas 4.8x3.4x1.0cm. Mod serosang drainage, no odor. Wound bed 34% gran, 66% slough. Periwound macerated. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Nakamura notified.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_c",
+    "patient_id": 245,
+    "pcc_note_id": 99151,
+    "sync_version": 1
+  },
+  {
+    "created_by": "l.castillo",
+    "effective_date": "2026-05-11T15:25:00",
+    "id": 383,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Diabetic Left foot measures aprx 4.8 x 3.4cm, depth 1.0cm.\nMin drainage serosanguineous. Heel wound also eval - L ankle 2.9x2.0, 0.5cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Mon.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_c",
+    "patient_id": 245,
+    "pcc_note_id": 82538,
+    "sync_version": 1
+  }
+]

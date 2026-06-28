@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "d.espinoza",
+    "effective_date": "2026-05-17T15:22:00",
+    "id": 388,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Left buttock wound site, rates 3/10.\nObjective: Wound assessment performed. Pressure Ulcer pressure ulcer Left buttock measures 4.3 cm x 4.8 cm x 1.2 cm.\n  Wound bed: 68% slough, 32% granulation tissue. Periwound: macerated.\n  Drainage: heavy. Odor: present, foul.\nAssessment: Pressure Ulcer pressure ulcer Left buttock \u2014 not improving.\nPlan: Offloading boot applied. Foam dressing change daily.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_c",
+    "patient_id": 248,
+    "pcc_note_id": 96563,
+    "sync_version": 1
+  },
+  {
+    "created_by": "g.ramirez",
+    "effective_date": "2026-05-12T09:24:00",
+    "id": 389,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftbuttock. Meas 4.3x4.8x1.2cm. Heavy serosang drainage, odor present. Wound bed 70% gran, 30% slough. Periwound erythematous. Foam dsg changed. Pt tolerated well. Dr. Bergstrom notified.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 248,
+    "pcc_note_id": 98552,
+    "sync_version": 1
+  }
+]

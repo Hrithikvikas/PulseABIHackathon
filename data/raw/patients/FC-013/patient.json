@@ -1,0 +1,12 @@
+{
+  "birth_date": "1956-09-21",
+  "facility_id": 103,
+  "first_name": "Sidney",
+  "gender": "Male",
+  "id": 223,
+  "is_new_admission": false,
+  "last_modified_at": "2026-03-21T15:17:00",
+  "last_name": "Yuen",
+  "patient_id": "FC-013",
+  "primary_payer_code": "MCA"
+}

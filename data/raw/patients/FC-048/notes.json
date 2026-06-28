@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "w.oduya",
+    "effective_date": "2026-05-15T16:31:00",
+    "id": 405,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Sacralrgn. Meas 2.8x3.1x0.7cm. Heavy serosang drainage, no odor. Wound bed 59% gran, 41% slough. Periwound erythematous. Foam dsg changed. Pt tolerated well. Dr. Morales notified.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 258,
+    "pcc_note_id": 80225,
+    "sync_version": 1
+  }
+]

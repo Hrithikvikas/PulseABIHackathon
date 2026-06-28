@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "j.thornton",
+    "effective_date": "2026-05-09T09:29:00",
+    "id": 58,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightplantar. Meas 1.4x1.7x0.7cm. Mod serosang drainage, no odor. Wound bed 40% gran, 60% slough. Periwound macerated. Collagen dsg changed. Pt tolerated well. Dr. Patel notified.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_a",
+    "patient_id": 39,
+    "pcc_note_id": 96297,
+    "sync_version": 1
+  },
+  {
+    "created_by": "b.nguyen",
+    "effective_date": "2026-05-17T14:29:00",
+    "id": 59,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Right plantar wound site, rates 8/10.\nObjective: Wound assessment performed. Diabetic diabetic Right plantar measures 1.4 cm x 1.7 cm x 0.7 cm.\n  Wound bed: 48% slough, 52% granulation tissue. Periwound: indurated.\n  Drainage: moderate. Odor: none.\nAssessment: Diabetic diabetic Right plantar \u2014 not improving.\nPlan: Negative pressure wound therapy initiated. Offloading boot applied.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_a",
+    "patient_id": 39,
+    "pcc_note_id": 89363,
+    "sync_version": 1
+  }
+]

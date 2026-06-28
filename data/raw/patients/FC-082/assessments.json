@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-17",
+    "assessment_type": "HP Skin & Wound",
+    "assessment_type_description": "Admissions",
+    "completion_date": "2026-05-17",
+    "id": 292,
+    "is_current": true,
+    "org_id": "org_facility_c",
+    "patient_id": 292,
+    "pcc_assessment_id": 55292,
+    "raw_json": "{\"assessmentId\": 55292, \"assessmentDate\": \"2026-05-17\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"WOUND_INFO\", \"questions\": [{\"question\": \"Wound narrative\", \"answer\": \"Diabetic to Left foot / Measures 5.5 cm x 2.0 cm / Stage: N/A / Drainage: serosanguineous, heavy\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 3
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "w.oduya",
+    "effective_date": "2026-05-09T02:11:00",
+    "id": 346,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Pressure Ulcer Right buttock measures aprx 3.7 x 3.8cm, depth 0.3cm.\nMin drainage serosanguineous. Heel wound also eval - L ankle 2.2x2.3, 0.1cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Mon.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_c",
+    "patient_id": 224,
+    "pcc_note_id": 82818,
+    "sync_version": 1
+  }
+]

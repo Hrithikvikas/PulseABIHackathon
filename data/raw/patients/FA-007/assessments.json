@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-18",
+    "assessment_type": "Weekly Wound Information Sheet",
+    "assessment_type_description": "Quarterly",
+    "completion_date": "2026-05-18",
+    "id": 7,
+    "is_current": true,
+    "org_id": "org_facility_a",
+    "patient_id": 7,
+    "pcc_assessment_id": 55007,
+    "raw_json": "{\"assessmentId\": 55007, \"assessmentDate\": \"2026-05-18\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"LOCATION\", \"questions\": [{\"question\": \"Location\", \"answer\": \"Left plantar\"}, {\"question\": \"Laterality\", \"answer\": \"Right\"}]}, {\"sectionName\": \"WOUND\", \"questions\": [{\"question\": \"Wound Type\", \"answer\": \"Diabetic\"}, {\"question\": \"Stage\", \"answer\": \"N/A\"}, {\"question\": \"Length (cm)\", \"answer\": \"2.8\"}, {\"question\": \"Width (cm)\", \"answer\": \"3.8\"}, {\"question\": \"Depth (cm)\", \"answer\": \"1.4\"}]}, {\"sectionName\": \"DRAINAGE\", \"questions\": [{\"question\": \"Drainage Present\", \"answer\": \"No\"}, {\"question\": \"Drainage Type\", \"answer\": \"Serous\"}, {\"question\": \"Drainage Amount\", \"answer\": \"None\"}]}, {\"sectionName\": \"WOUND_BED\", \"questions\": [{\"question\": \"Granulation %\", \"answer\": \"33\"}, {\"question\": \"Slough %\", \"answer\": \"53\"}, {\"question\": \"Periwound\", \"answer\": \"Erythematous\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 1
+  }
+]

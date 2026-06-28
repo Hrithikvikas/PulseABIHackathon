@@ -1,0 +1,12 @@
+{
+  "birth_date": "1942-11-13",
+  "facility_id": 103,
+  "first_name": "Frederick",
+  "gender": "Male",
+  "id": 286,
+  "is_new_admission": false,
+  "last_modified_at": "2026-03-05T11:44:00",
+  "last_name": "Oduya",
+  "patient_id": "FC-076",
+  "primary_payer_code": "HMO"
+}

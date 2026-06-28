@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "r.patel",
+    "effective_date": "2026-05-16T09:24:00",
+    "id": 285,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftbuttock. Meas 4.8x3.3x1.4cm. Heavy serosang drainage, no odor. Wound bed 53% gran, 47% slough. Periwound intact. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Patel notified.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_b",
+    "patient_id": 185,
+    "pcc_note_id": 86082,
+    "sync_version": 1
+  }
+]

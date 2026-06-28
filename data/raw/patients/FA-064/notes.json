@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "p.johansson",
+    "effective_date": "2026-05-16T05:37:00",
+    "id": 94,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightlowerle. Meas 4.0x1.8x0.8cm. Mod serosang drainage, no odor. Wound bed 50% gran, 50% slough. Periwound intact. NPWT canister changed. Pt tolerated well. Dr. Ramirez notified.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_a",
+    "patient_id": 64,
+    "pcc_note_id": 96450,
+    "sync_version": 1
+  },
+  {
+    "created_by": "t.kaczmarek",
+    "effective_date": "2026-05-05T14:40:00",
+    "id": 95,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Right lower leg wound site, rates 4/10.\nObjective: Wound assessment performed. Venous venous Right lower leg measures 4.0 cm x 1.8 cm x 0.8 cm.\n  Wound bed: 66% slough, 34% granulation tissue. Periwound: intact.\n  Drainage: moderate. Odor: present, mild.\nAssessment: Venous venous Right lower leg \u2014 improving.\nPlan: Alginate dressing applied. Negative pressure wound therapy initiated.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_a",
+    "patient_id": 64,
+    "pcc_note_id": 98123,
+    "sync_version": 1
+  }
+]

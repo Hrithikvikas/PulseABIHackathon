@@ -1,0 +1,20 @@
+[
+  {
+    "clinical_status": "active",
+    "icd10_code": "L02.211",
+    "icd10_description": "Abscess \u2013 Right Cervical",
+    "id": 552,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-06-20",
+    "patient_id": "FB-071"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "J44.1",
+    "icd10_description": "Chronic obstructive pulmonary disease with acute exacerbation",
+    "id": 553,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2024-11-10",
+    "patient_id": "FB-071"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "clinical_status": "active",
+    "icd10_code": "E11.621",
+    "icd10_description": "Diabetic Foot Ulcer \u2013 Left Plantar",
+    "id": 700,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-09-22",
+    "patient_id": "FC-031"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "M79.3",
+    "icd10_description": "Panniculitis, unspecified",
+    "id": 701,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-04-24",
+    "patient_id": "FC-031"
+  }
+]

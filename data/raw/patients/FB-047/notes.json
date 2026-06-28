@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "p.johansson",
+    "effective_date": "2026-05-13T01:32:00",
+    "id": 256,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftheel. Meas 4.7x3.7x2.9cm. Heavy serosang drainage, no odor. Wound bed 69% gran, 31% slough. Periwound erythematous. Collagen dsg changed. Pt tolerated well. Dr. Ramirez notified.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_b",
+    "patient_id": 167,
+    "pcc_note_id": 88058,
+    "sync_version": 1
+  },
+  {
+    "created_by": "l.castillo",
+    "effective_date": "2026-05-08T13:59:00",
+    "id": 257,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Pressure Ulcer Left heel measures aprx 4.7 x 3.7cm, depth 2.9cm.\nMin drainage serosanguineous. Heel wound also eval - L ankle 2.8x2.2, 1.4cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_b",
+    "patient_id": 167,
+    "pcc_note_id": 80067,
+    "sync_version": 1
+  }
+]

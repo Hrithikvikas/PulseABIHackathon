@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-16",
+    "assessment_type": "HP Skin & Wound",
+    "assessment_type_description": "Admissions",
+    "completion_date": "2026-05-16",
+    "id": 136,
+    "is_current": true,
+    "org_id": "org_facility_b",
+    "patient_id": 136,
+    "pcc_assessment_id": 55136,
+    "raw_json": "{\"assessmentId\": 55136, \"assessmentDate\": \"2026-05-16\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"LOCATION\", \"questions\": [{\"question\": \"Location\", \"answer\": \"Right plantar\"}, {\"question\": \"Laterality\", \"answer\": \"Right\"}]}, {\"sectionName\": \"WOUND\", \"questions\": [{\"question\": \"Wound Type\", \"answer\": \"Diabetic\"}, {\"question\": \"Stage\", \"answer\": \"N/A\"}, {\"question\": \"Length (cm)\", \"answer\": \"3.8\"}, {\"question\": \"Width (cm)\", \"answer\": \"3.5\"}, {\"question\": \"Depth (cm)\", \"answer\": \"0.8\"}]}, {\"sectionName\": \"DRAINAGE\", \"questions\": [{\"question\": \"Drainage Present\", \"answer\": \"Yes\"}, {\"question\": \"Drainage Type\", \"answer\": \"Serous\"}, {\"question\": \"Drainage Amount\", \"answer\": \"Light\"}]}, {\"sectionName\": \"WOUND_BED\", \"questions\": [{\"question\": \"Granulation %\", \"answer\": \"31\"}, {\"question\": \"Slough %\", \"answer\": \"21\"}, {\"question\": \"Periwound\", \"answer\": \"Macerated\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 3
+  }
+]

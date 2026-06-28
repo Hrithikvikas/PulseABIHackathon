@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "m.lefebvre",
+    "effective_date": "2026-05-13T12:21:00",
+    "id": 66,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftupperarm. Meas 2.8x1.8x0.1cm. Mod serosang drainage, odor present. Wound bed 55% gran, 45% slough. Periwound erythematous. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Oduya notified.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_a",
+    "patient_id": 44,
+    "pcc_note_id": 87180,
+    "sync_version": 1
+  },
+  {
+    "created_by": "g.ramirez",
+    "effective_date": "2026-05-06T04:37:00",
+    "id": 67,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Burn to Left upper arm / Measures 2.8 cm x 1.8 cm / Stage: N/A\nDrainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_a",
+    "patient_id": 44,
+    "pcc_note_id": 97997,
+    "sync_version": 1
+  }
+]

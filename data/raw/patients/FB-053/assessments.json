@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-12",
+    "assessment_type": "Weekly Wound Information Sheet",
+    "assessment_type_description": "Admissions",
+    "completion_date": "2026-05-12",
+    "id": 173,
+    "is_current": true,
+    "org_id": "org_facility_b",
+    "patient_id": 173,
+    "pcc_assessment_id": 55173,
+    "raw_json": "{\"assessmentId\": 55173, \"assessmentDate\": \"2026-05-12\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"WOUND_INFO\", \"questions\": [{\"question\": \"Wound narrative\", \"answer\": \"Venous to Right lower leg / Measures 7.4 cm x 1.1 cm / Stage: N/A / Drainage: serosanguineous, heavy\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 4
+  }
+]

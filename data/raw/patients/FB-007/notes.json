@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "f.morales",
+    "effective_date": "2026-05-07T21:20:00",
+    "id": 190,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Sacral region wound site, rates 4/10.\nObjective: Wound assessment performed. Stage 2 pressure ulcer Sacral region measures 3.5 cm x 3.4 cm x 0.3 cm.\n  Wound bed: 56% slough, 44% granulation tissue. Periwound: macerated.\n  Drainage: moderate. Odor: none.\nAssessment: Stage 2 pressure ulcer Sacral region \u2014 not improving.\nPlan: Debridement consult ordered. Physician notified of wound progression.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_b",
+    "patient_id": 127,
+    "pcc_note_id": 89056,
+    "sync_version": 1
+  }
+]

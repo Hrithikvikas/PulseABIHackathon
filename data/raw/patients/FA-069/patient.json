@@ -1,0 +1,12 @@
+{
+  "birth_date": "1931-09-14",
+  "facility_id": 101,
+  "first_name": "Donald",
+  "gender": "Male",
+  "id": 69,
+  "is_new_admission": false,
+  "last_modified_at": "2026-04-04T16:22:00",
+  "last_name": "Tanner",
+  "patient_id": "FA-069",
+  "primary_payer_code": "MCB"
+}

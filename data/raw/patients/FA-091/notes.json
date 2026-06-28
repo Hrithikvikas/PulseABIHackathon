@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "b.nguyen",
+    "effective_date": "2026-05-16T07:44:00",
+    "id": 135,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightlowerle. Meas 3.6x4.5x0.5cm. Heavy serosang drainage, no odor. Wound bed 54% gran, 46% slough. Periwound erythematous. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Nakamura notified.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_a",
+    "patient_id": 91,
+    "pcc_note_id": 87303,
+    "sync_version": 1
+  },
+  {
+    "created_by": "j.thornton",
+    "effective_date": "2026-05-04T12:29:00",
+    "id": 136,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Venous to Right lower leg / Measures 3.6 cm x 4.5 cm / Stage: N/A\nDrainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_a",
+    "patient_id": 91,
+    "pcc_note_id": 99798,
+    "sync_version": 1
+  }
+]

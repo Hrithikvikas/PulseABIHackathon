@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "l.castillo",
+    "effective_date": "2026-05-06T04:14:00",
+    "id": 238,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Pressure Ulcer to Right hip / Measures 2.5 cm x 2.4 cm / Stage: Stage 3\nDrainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_b",
+    "patient_id": 157,
+    "pcc_note_id": 89922,
+    "sync_version": 1
+  },
+  {
+    "created_by": "s.okafor",
+    "effective_date": "2026-05-16T19:52:00",
+    "id": 239,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Pressure Ulcer Right hip measures aprx 2.5 x 2.4cm, depth 0.8cm.\nMin drainage serosanguineous. Heel wound also eval - R ankle 1.5x1.4, 0.4cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Mon.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_b",
+    "patient_id": 157,
+    "pcc_note_id": 86252,
+    "sync_version": 1
+  }
+]

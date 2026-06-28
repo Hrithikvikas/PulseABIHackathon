@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "j.thornton",
+    "effective_date": "2026-05-13T12:37:00",
+    "id": 147,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Surgical to Abdominal wall / Measures 3.8 cm x 1.0 cm / Stage: N/A\nDrainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_a",
+    "patient_id": 99,
+    "pcc_note_id": 91276,
+    "sync_version": 1
+  }
+]

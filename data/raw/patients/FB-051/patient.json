@@ -1,0 +1,12 @@
+{
+  "birth_date": "1931-03-02",
+  "facility_id": 102,
+  "first_name": "Vera",
+  "gender": "Female",
+  "id": 171,
+  "is_new_admission": false,
+  "last_modified_at": "2025-12-07T13:23:00",
+  "last_name": "Reyes",
+  "patient_id": "FB-051",
+  "primary_payer_code": "MCA"
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "m.lefebvre",
+    "effective_date": "2026-05-16T06:50:00",
+    "id": 253,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftplantar. Meas 3.4x2.4x1.4cm. Light serosang drainage, odor present. Wound bed 56% gran, 44% slough. Periwound intact. Collagen dsg changed. Pt tolerated well. Dr. Espinoza notified.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_b",
+    "patient_id": 165,
+    "pcc_note_id": 84719,
+    "sync_version": 1
+  },
+  {
+    "created_by": "m.lefebvre",
+    "effective_date": "2026-05-11T02:50:00",
+    "id": 254,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Diabetic Left plantar measures aprx 3.4 x 2.4cm, depth 1.4cm.\nMin drainage serous. Heel wound also eval - L heel 2.0x1.4, 0.7cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_b",
+    "patient_id": 165,
+    "pcc_note_id": 90659,
+    "sync_version": 1
+  }
+]

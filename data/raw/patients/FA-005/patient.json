@@ -1,0 +1,12 @@
+{
+  "birth_date": "1940-04-08",
+  "facility_id": 101,
+  "first_name": "Kristina",
+  "gender": "Female",
+  "id": 5,
+  "is_new_admission": false,
+  "last_modified_at": "2026-05-17T13:56:00",
+  "last_name": "Bergstrom",
+  "patient_id": "FA-005",
+  "primary_payer_code": "MCB"
+}

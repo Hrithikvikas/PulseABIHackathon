@@ -1,0 +1,38 @@
+[
+  {
+    "clinical_status": "active",
+    "icd10_code": "I83.012",
+    "icd10_description": "Venous Stasis Ulcer \u2013 Left Lower Leg",
+    "id": 690,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2026-03-26",
+    "patient_id": "FC-028"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "M79.3",
+    "icd10_description": "Panniculitis, unspecified",
+    "id": 691,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2024-10-16",
+    "patient_id": "FC-028"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "E66.9",
+    "icd10_description": "Obesity, unspecified",
+    "id": 692,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-01-08",
+    "patient_id": "FC-028"
+  },
+  {
+    "clinical_status": "resolved",
+    "icd10_code": "Z87.891",
+    "icd10_description": "Personal history of nicotine dependence",
+    "id": 693,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-06-01",
+    "patient_id": "FC-028"
+  }
+]

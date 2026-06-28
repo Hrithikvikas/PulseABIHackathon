@@ -1,0 +1,12 @@
+{
+  "birth_date": "1957-02-17",
+  "facility_id": 103,
+  "first_name": "Mabel",
+  "gender": "Female",
+  "id": 268,
+  "is_new_admission": false,
+  "last_modified_at": "2026-01-27T10:48:00",
+  "last_name": "Tanner",
+  "patient_id": "FC-058",
+  "primary_payer_code": "MCB"
+}

@@ -1,0 +1,12 @@
+{
+  "birth_date": "1935-11-14",
+  "facility_id": 101,
+  "first_name": "Eleanor",
+  "gender": "Female",
+  "id": 8,
+  "is_new_admission": false,
+  "last_modified_at": "2026-05-16T18:13:00",
+  "last_name": "Yates",
+  "patient_id": "FA-008",
+  "primary_payer_code": "HMO"
+}

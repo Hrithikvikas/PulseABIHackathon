@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "s.okafor",
+    "effective_date": "2026-05-12T18:57:00",
+    "id": 24,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Venous Right lower leg measures aprx 7.6 x 4.2cm, depth 0.6cm.\nMin drainage serosanguineous. Heel wound also eval - R ankle 4.6x2.5, 0.3cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_a",
+    "patient_id": 16,
+    "pcc_note_id": 95654,
+    "sync_version": 1
+  }
+]

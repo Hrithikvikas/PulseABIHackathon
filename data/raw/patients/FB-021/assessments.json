@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-18",
+    "assessment_type": "Weekly Wound Information Sheet",
+    "assessment_type_description": "Quarterly",
+    "completion_date": "2026-05-18",
+    "id": 141,
+    "is_current": true,
+    "org_id": "org_facility_b",
+    "patient_id": 141,
+    "pcc_assessment_id": 55141,
+    "raw_json": "{\"assessmentId\": 55141, \"assessmentDate\": \"2026-05-18\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"WOUND_INFO\", \"questions\": [{\"question\": \"Wound narrative\", \"answer\": \"Pressure Ulcer to Right buttock / Measures 2.9 cm x 4.4 cm / Stage: Stage 3 / Drainage: serous, light\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 4
+  }
+]

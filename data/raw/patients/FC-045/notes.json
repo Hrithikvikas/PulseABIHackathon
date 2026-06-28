@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "c.nakamura",
+    "effective_date": "2026-05-09T23:39:00",
+    "id": 401,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Surgical Abdominal wall measures aprx 1.9 x 2.8cm, depth 1.5cm.\nMin drainage serosanguineous. Heel wound also eval - R ankle 1.1x1.7, 0.8cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 255,
+    "pcc_note_id": 90474,
+    "sync_version": 1
+  },
+  {
+    "created_by": "w.oduya",
+    "effective_date": "2026-05-04T00:29:00",
+    "id": 402,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Surgical to Abdominal wall / Measures 1.9 cm x 2.8 cm / Stage: N/A\nDrainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_c",
+    "patient_id": 255,
+    "pcc_note_id": 97440,
+    "sync_version": 1
+  }
+]

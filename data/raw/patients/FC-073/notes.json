@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "j.thornton",
+    "effective_date": "2026-05-04T08:44:00",
+    "id": 446,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Left heel wound site, rates 8/10.\nObjective: Wound assessment performed. Stage 4 pressure ulcer Left heel measures 7.8 cm x 4.0 cm x 3.7 cm.\n  Wound bed: 28% slough, 72% granulation tissue. Periwound: indurated.\n  Drainage: heavy. Odor: present, mild.\nAssessment: Stage 4 pressure ulcer Left heel \u2014 improving.\nPlan: Offloading boot applied. Nutritional consult ordered.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 283,
+    "pcc_note_id": 92958,
+    "sync_version": 1
+  },
+  {
+    "created_by": "m.lefebvre",
+    "effective_date": "2026-05-06T16:56:00",
+    "id": 447,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Pressure Ulcer to Left heel / Measures 7.8 cm x 4.0 cm / Stage: Stage 4\nDrainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 283,
+    "pcc_note_id": 83777,
+    "sync_version": 1
+  }
+]

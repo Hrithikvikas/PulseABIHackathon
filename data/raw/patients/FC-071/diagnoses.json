@@ -1,0 +1,29 @@
+[
+  {
+    "clinical_status": "active",
+    "icd10_code": "T22.219A",
+    "icd10_description": "Partial Thickness Burn \u2013 Left Upper Arm",
+    "id": 819,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-11-11",
+    "patient_id": "FC-071"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "I10",
+    "icd10_description": "Essential (primary) hypertension",
+    "id": 820,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2024-04-20",
+    "patient_id": "FC-071"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "E78.5",
+    "icd10_description": "Hyperlipidemia, unspecified",
+    "id": 821,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-09-17",
+    "patient_id": "FC-071"
+  }
+]

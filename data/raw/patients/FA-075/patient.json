@@ -1,0 +1,12 @@
+{
+  "birth_date": "1930-05-26",
+  "facility_id": 101,
+  "first_name": "Ivan",
+  "gender": "Male",
+  "id": 75,
+  "is_new_admission": false,
+  "last_modified_at": "2026-03-16T03:49:00",
+  "last_name": "Medina",
+  "patient_id": "FA-075",
+  "primary_payer_code": "MCA"
+}

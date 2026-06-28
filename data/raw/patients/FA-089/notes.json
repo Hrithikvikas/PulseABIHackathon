@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "t.kaczmarek",
+    "effective_date": "2026-05-12T19:17:00",
+    "id": 133,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Venous to Left lower leg / Measures 3.6 cm x 3.1 cm / Stage: N/A\nDrainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_a",
+    "patient_id": 89,
+    "pcc_note_id": 95727,
+    "sync_version": 1
+  }
+]

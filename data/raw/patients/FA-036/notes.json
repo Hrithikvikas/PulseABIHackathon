@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "t.kaczmarek",
+    "effective_date": "2026-05-15T02:32:00",
+    "id": 53,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Left plantar wound site, rates 5/10.\nObjective: Wound assessment performed. Diabetic diabetic Left plantar measures 1.6 cm x 2.7 cm x 1.2 cm.\n  Wound bed: 31% slough, 69% granulation tissue. Periwound: erythematous.\n  Drainage: none. Odor: present, mild.\nAssessment: Diabetic diabetic Left plantar \u2014 not improving.\nPlan: Nutritional consult ordered. Offloading boot applied.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_a",
+    "patient_id": 36,
+    "pcc_note_id": 92190,
+    "sync_version": 1
+  }
+]

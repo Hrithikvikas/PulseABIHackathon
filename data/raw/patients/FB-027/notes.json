@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "f.morales",
+    "effective_date": "2026-05-04T00:31:00",
+    "id": 221,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Diabetic to Left plantar / Measures 3.7 cm x 2.6 cm / Stage: N/A\nDrainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_b",
+    "patient_id": 147,
+    "pcc_note_id": 97456,
+    "sync_version": 1
+  }
+]

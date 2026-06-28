@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-17",
+    "assessment_type": "Weekly Wound Information Sheet",
+    "assessment_type_description": "Quarterly",
+    "completion_date": "2026-05-17",
+    "id": 245,
+    "is_current": true,
+    "org_id": "org_facility_c",
+    "patient_id": 245,
+    "pcc_assessment_id": 55245,
+    "raw_json": "{\"assessmentId\": 55245, \"assessmentDate\": \"2026-05-17\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"WOUND_INFO\", \"questions\": [{\"question\": \"Wound narrative\", \"answer\": \"Diabetic to Left foot / Measures 4.8 cm x 3.4 cm / Stage: N/A / Drainage: serosanguineous, moderate\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 1
+  }
+]

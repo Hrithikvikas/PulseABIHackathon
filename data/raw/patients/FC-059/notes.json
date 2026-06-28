@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "w.oduya",
+    "effective_date": "2026-05-12T23:04:00",
+    "id": 424,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Venous Right lower leg measures aprx 1.7 x 2.0cm, depth 0.4cm.\nMin drainage serosanguineous. Heel wound also eval - L heel 1.0x1.2, 0.2cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Mon.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_c",
+    "patient_id": 269,
+    "pcc_note_id": 81121,
+    "sync_version": 1
+  },
+  {
+    "created_by": "s.okafor",
+    "effective_date": "2026-05-15T21:00:00",
+    "id": 425,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightlowerle. Meas 1.7x2.0x0.4cm. Heavy serosang drainage, no odor. Wound bed 56% gran, 44% slough. Periwound intact. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Morales notified.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 269,
+    "pcc_note_id": 87297,
+    "sync_version": 1
+  }
+]

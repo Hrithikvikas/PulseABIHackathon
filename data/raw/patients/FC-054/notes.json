@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "j.thornton",
+    "effective_date": "2026-05-08T05:36:00",
+    "id": 416,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Venous to Right lower leg / Measures 6.2 cm x 5.7 cm / Stage: N/A\nDrainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 264,
+    "pcc_note_id": 83323,
+    "sync_version": 1
+  },
+  {
+    "created_by": "g.ramirez",
+    "effective_date": "2026-05-10T14:53:00",
+    "id": 417,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Venous Right lower leg measures aprx 6.2 x 5.7cm, depth 0.5cm.\nMin drainage serosanguineous. Heel wound also eval - L ankle 3.7x3.4, 0.2cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Mon.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_c",
+    "patient_id": 264,
+    "pcc_note_id": 84400,
+    "sync_version": 1
+  }
+]

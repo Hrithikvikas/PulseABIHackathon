@@ -1,0 +1,12 @@
+{
+  "birth_date": "1943-12-10",
+  "facility_id": 103,
+  "first_name": "Paul",
+  "gender": "Male",
+  "id": 225,
+  "is_new_admission": false,
+  "last_modified_at": "2025-11-25T10:17:00",
+  "last_name": "Jefferson",
+  "patient_id": "FC-015",
+  "primary_payer_code": "MCB"
+}

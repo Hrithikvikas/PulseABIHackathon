@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "w.oduya",
+    "effective_date": "2026-05-17T03:36:00",
+    "id": 50,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Pressure Ulcer to Left heel / Measures 3.0 cm x 2.2 cm / Stage: Stage 2\nDrainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_a",
+    "patient_id": 34,
+    "pcc_note_id": 88311,
+    "sync_version": 1
+  }
+]

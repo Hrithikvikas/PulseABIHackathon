@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "d.espinoza",
+    "effective_date": "2026-05-10T05:45:00",
+    "id": 379,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightlowerle. Meas 3.0x2.8x0.5cm. Heavy serosang drainage, odor present. Wound bed 70% gran, 30% slough. Periwound intact. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Nguyen notified.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 243,
+    "pcc_note_id": 84631,
+    "sync_version": 1
+  },
+  {
+    "created_by": "f.morales",
+    "effective_date": "2026-05-04T05:12:00",
+    "id": 380,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Venous to Right lower leg / Measures 3.0 cm x 2.8 cm / Stage: N/A\nDrainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_c",
+    "patient_id": 243,
+    "pcc_note_id": 81931,
+    "sync_version": 1
+  }
+]

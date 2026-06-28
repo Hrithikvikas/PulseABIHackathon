@@ -1,0 +1,12 @@
+{
+  "birth_date": "1951-03-28",
+  "facility_id": 103,
+  "first_name": "Nathan",
+  "gender": "Male",
+  "id": 246,
+  "is_new_admission": false,
+  "last_modified_at": "2026-03-06T23:10:00",
+  "last_name": "Tillman",
+  "patient_id": "FC-036",
+  "primary_payer_code": "MCB"
+}

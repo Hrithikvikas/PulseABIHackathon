@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "m.lefebvre",
+    "effective_date": "2026-05-13T03:17:00",
+    "id": 344,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightlowerle. Meas 1.7x3.9x0.6cm. Heavy serosang drainage, no odor. Wound bed 77% gran, 23% slough. Periwound intact. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Ramirez notified.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_c",
+    "patient_id": 223,
+    "pcc_note_id": 97265,
+    "sync_version": 1
+  },
+  {
+    "created_by": "r.patel",
+    "effective_date": "2026-05-11T05:34:00",
+    "id": 345,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Venous Right lower leg measures aprx 1.7 x 3.9cm, depth 0.6cm.\nMin drainage serosanguineous. Heel wound also eval - L ankle 1.0x2.3, 0.3cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Mon.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 223,
+    "pcc_note_id": 90135,
+    "sync_version": 1
+  }
+]

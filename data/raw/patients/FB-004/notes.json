@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "c.nakamura",
+    "effective_date": "2026-05-09T08:24:00",
+    "id": 186,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Abscess Right cervical measures aprx 1.4 x 1.1cm, depth 0.6cm.\nMin drainage serosanguineous. Heel wound also eval - L heel 0.8x0.7, 0.3cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_b",
+    "patient_id": 124,
+    "pcc_note_id": 93795,
+    "sync_version": 1
+  }
+]

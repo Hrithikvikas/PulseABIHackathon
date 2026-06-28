@@ -1,0 +1,12 @@
+{
+  "birth_date": "1931-02-27",
+  "facility_id": 103,
+  "first_name": "Eleanor",
+  "gender": "Female",
+  "id": 239,
+  "is_new_admission": false,
+  "last_modified_at": "2026-02-25T14:24:00",
+  "last_name": "Tanner",
+  "patient_id": "FC-029",
+  "primary_payer_code": "MCB"
+}

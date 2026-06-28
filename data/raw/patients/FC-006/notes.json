@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "l.castillo",
+    "effective_date": "2026-05-06T08:33:00",
+    "id": 333,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Surgical Abdominal wall measures aprx 1.8 x 3.5cm, depth 1.5cm.\nMin drainage serosanguineous. Heel wound also eval - R heel 1.1x2.1, 0.8cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Mon.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_c",
+    "patient_id": 216,
+    "pcc_note_id": 93885,
+    "sync_version": 1
+  }
+]

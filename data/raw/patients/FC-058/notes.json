@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "p.johansson",
+    "effective_date": "2026-05-11T03:41:00",
+    "id": 422,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Pressure Ulcer Sacral region measures aprx 2.1 x 2.8cm, depth 1.0cm.\nMin drainage serosanguineous. Heel wound also eval - L ankle 1.3x1.7, 0.5cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Mon.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_c",
+    "patient_id": 268,
+    "pcc_note_id": 82767,
+    "sync_version": 1
+  },
+  {
+    "created_by": "m.lefebvre",
+    "effective_date": "2026-05-17T15:14:00",
+    "id": 423,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Pressure Ulcer to Sacral region / Measures 2.1 cm x 2.8 cm / Stage: N/A\nDrainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 268,
+    "pcc_note_id": 81486,
+    "sync_version": 1
+  }
+]

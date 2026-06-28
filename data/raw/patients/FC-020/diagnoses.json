@@ -1,0 +1,38 @@
+[
+  {
+    "clinical_status": "active",
+    "icd10_code": "I70.234",
+    "icd10_description": "Arterial Ulcer \u2013 Right Lower Extremity",
+    "id": 667,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-09-27",
+    "patient_id": "FC-020"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "E11.9",
+    "icd10_description": "Type 2 diabetes mellitus without complications",
+    "id": 668,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-11-27",
+    "patient_id": "FC-020"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "M79.3",
+    "icd10_description": "Panniculitis, unspecified",
+    "id": 669,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2024-08-01",
+    "patient_id": "FC-020"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "I48.91",
+    "icd10_description": "Unspecified atrial fibrillation",
+    "id": 670,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2024-11-23",
+    "patient_id": "FC-020"
+  }
+]

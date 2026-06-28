@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "s.okafor",
+    "effective_date": "2026-05-11T01:21:00",
+    "id": 358,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Venous Right lower leg measures aprx 3.9 x 3.8cm, depth 0.7cm.\nMin drainage serosanguineous. Heel wound also eval - L heel 2.3x2.3, 0.3cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_c",
+    "patient_id": 232,
+    "pcc_note_id": 89167,
+    "sync_version": 1
+  },
+  {
+    "created_by": "r.patel",
+    "effective_date": "2026-05-12T00:08:00",
+    "id": 359,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightlowerle. Meas 3.9x3.8x0.7cm. Mod serosang drainage, no odor. Wound bed 38% gran, 62% slough. Periwound erythematous. Alginate dsg applied. Pt tolerated well. Dr. Bergstrom notified.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_c",
+    "patient_id": 232,
+    "pcc_note_id": 81175,
+    "sync_version": 1
+  }
+]

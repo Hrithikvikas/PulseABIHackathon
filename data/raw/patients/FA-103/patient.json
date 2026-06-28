@@ -1,0 +1,12 @@
+{
+  "birth_date": "1941-03-21",
+  "facility_id": 101,
+  "first_name": "Earl",
+  "gender": "Male",
+  "id": 103,
+  "is_new_admission": false,
+  "last_modified_at": "2026-04-15T20:11:00",
+  "last_name": "Goldstein",
+  "patient_id": "FA-103",
+  "primary_payer_code": "MCA"
+}

@@ -1,0 +1,12 @@
+{
+  "birth_date": "1954-03-23",
+  "facility_id": 101,
+  "first_name": "Leonard",
+  "gender": "Male",
+  "id": 18,
+  "is_new_admission": false,
+  "last_modified_at": "2025-12-27T21:22:00",
+  "last_name": "Valentine",
+  "patient_id": "FA-018",
+  "primary_payer_code": "MCA"
+}

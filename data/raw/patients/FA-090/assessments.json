@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-12",
+    "assessment_type": "Weekly Wound Information Sheet",
+    "assessment_type_description": "Quarterly",
+    "completion_date": "2026-05-12",
+    "id": 90,
+    "is_current": true,
+    "org_id": "org_facility_a",
+    "patient_id": 90,
+    "pcc_assessment_id": 55090,
+    "raw_json": "{\"assessmentId\": 55090, \"assessmentDate\": \"2026-05-12\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"WOUND_INFO\", \"questions\": [{\"question\": \"Wound narrative\", \"answer\": \"Arterial to Right lower extremity / Measures 1.1 cm x 2.0 cm / Stage: N/A / Drainage: serosanguineous, moderate\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 2
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "g.ramirez",
+    "effective_date": "2026-05-07T20:05:00",
+    "id": 432,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Pressure Ulcer to Right heel / Measures 8.4 cm x 7.8 cm / Stage: Stage 4\nDrainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 274,
+    "pcc_note_id": 89039,
+    "sync_version": 1
+  },
+  {
+    "created_by": "s.okafor",
+    "effective_date": "2026-05-04T15:38:00",
+    "id": 433,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Pressure Ulcer Right heel measures aprx 8.4 x 7.8cm, depth 3.7cm.\nMin drainage serosanguineous. Heel wound also eval - L ankle 5.0x4.7, 1.9cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Thu.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 274,
+    "pcc_note_id": 80423,
+    "sync_version": 1
+  }
+]

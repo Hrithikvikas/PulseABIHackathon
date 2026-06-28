@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "s.okafor",
+    "effective_date": "2026-05-17T07:54:00",
+    "id": 236,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightcervica. Meas 1.8x0.8x0.2cm. Light serosang drainage, odor present. Wound bed 63% gran, 37% slough. Periwound macerated. Collagen dsg changed. Pt tolerated well. Dr. Castillo notified.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_b",
+    "patient_id": 156,
+    "pcc_note_id": 93533,
+    "sync_version": 1
+  },
+  {
+    "created_by": "s.okafor",
+    "effective_date": "2026-05-08T15:38:00",
+    "id": 237,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Abscess to Right cervical / Measures 1.8 cm x 0.8 cm / Stage: N/A\nDrainage present - serous, light. No odor noted. Treatment: Pack with iodoform gauze daily.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_b",
+    "patient_id": 156,
+    "pcc_note_id": 99187,
+    "sync_version": 1
+  }
+]

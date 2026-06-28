@@ -1,0 +1,38 @@
+[
+  {
+    "clinical_status": "active",
+    "icd10_code": "E11.622",
+    "icd10_description": "Diabetic Foot Ulcer with Gangrene \u2013 Left",
+    "id": 372,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-06-09",
+    "patient_id": "FB-008"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "I10",
+    "icd10_description": "Essential (primary) hypertension",
+    "id": 373,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-06-28",
+    "patient_id": "FB-008"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "F03.90",
+    "icd10_description": "Unspecified dementia without behavioral disturbance",
+    "id": 374,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-12-05",
+    "patient_id": "FB-008"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "I48.91",
+    "icd10_description": "Unspecified atrial fibrillation",
+    "id": 375,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2026-02-13",
+    "patient_id": "FB-008"
+  }
+]

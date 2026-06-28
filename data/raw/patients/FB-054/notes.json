@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "t.kaczmarek",
+    "effective_date": "2026-05-05T07:37:00",
+    "id": 266,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Left upper arm wound site, rates 9/10.\nObjective: Wound assessment performed. Burn burn Left upper arm measures 5.4 cm x 4.4 cm x 0.2 cm.\n  Wound bed: 30% slough, 70% granulation tissue. Periwound: intact.\n  Drainage: moderate. Odor: none.\nAssessment: Burn burn Left upper arm \u2014 improving.\nPlan: Nutritional consult ordered. Physician notified of wound progression.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_b",
+    "patient_id": 174,
+    "pcc_note_id": 97003,
+    "sync_version": 1
+  }
+]

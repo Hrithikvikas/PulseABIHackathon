@@ -1,0 +1,12 @@
+{
+  "birth_date": "1948-06-18",
+  "facility_id": 101,
+  "first_name": "Phyllis",
+  "gender": "Female",
+  "id": 59,
+  "is_new_admission": false,
+  "last_modified_at": "2026-02-07T03:52:00",
+  "last_name": "Figueroa",
+  "patient_id": "FA-059",
+  "primary_payer_code": "MCB"
+}

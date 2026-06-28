@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "f.morales",
+    "effective_date": "2026-05-09T09:14:00",
+    "id": 269,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftupperarm. Meas 1.1x3.5x0.2cm. Light serosang drainage, odor present. Wound bed 44% gran, 56% slough. Periwound erythematous. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Kaczmarek notified.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_b",
+    "patient_id": 176,
+    "pcc_note_id": 91162,
+    "sync_version": 1
+  },
+  {
+    "created_by": "l.castillo",
+    "effective_date": "2026-05-04T06:59:00",
+    "id": 270,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Left upper arm wound site, rates 7/10.\nObjective: Wound assessment performed. Burn burn Left upper arm measures 1.1 cm x 3.5 cm x 0.2 cm.\n  Wound bed: 26% slough, 74% granulation tissue. Periwound: macerated.\n  Drainage: light. Odor: present, mild.\nAssessment: Burn burn Left upper arm \u2014 improving.\nPlan: Nutritional consult ordered. Alginate dressing applied.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_b",
+    "patient_id": 176,
+    "pcc_note_id": 84553,
+    "sync_version": 1
+  }
+]

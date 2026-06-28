@@ -1,0 +1,12 @@
+{
+  "birth_date": "1939-05-30",
+  "facility_id": 103,
+  "first_name": "Floyd",
+  "gender": "Male",
+  "id": 212,
+  "is_new_admission": true,
+  "last_modified_at": "2026-05-15T06:00:00",
+  "last_name": "Abbott",
+  "patient_id": "FC-002",
+  "primary_payer_code": "MCB"
+}

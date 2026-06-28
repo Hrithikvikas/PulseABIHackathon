@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "r.patel",
+    "effective_date": "2026-05-06T06:18:00",
+    "id": 7,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Diabetic to Left foot / Measures 2.7 cm x 1.5 cm / Stage: N/A\nDrainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_a",
+    "patient_id": 6,
+    "pcc_note_id": 85072,
+    "sync_version": 1
+  },
+  {
+    "created_by": "j.thornton",
+    "effective_date": "2026-05-08T00:26:00",
+    "id": 8,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Pt seen for wound eval. Diabetic Left foot measures aprx 2.7 x 1.5cm, depth 1.1cm.\nMin drainage serosanguineous. Heel wound also eval - R heel 1.6x0.9, 0.6cm deep, slight serous.\nBoth wounds cleaned w/ NS, covered. Will follow up Mon.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_a",
+    "patient_id": 6,
+    "pcc_note_id": 90276,
+    "sync_version": 1
+  }
+]

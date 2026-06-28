@@ -1,0 +1,12 @@
+{
+  "birth_date": "1937-11-20",
+  "facility_id": 101,
+  "first_name": "Jean",
+  "gender": "Female",
+  "id": 43,
+  "is_new_admission": false,
+  "last_modified_at": "2026-01-07T08:49:00",
+  "last_name": "Jennings",
+  "patient_id": "FA-043",
+  "primary_payer_code": "MCB"
+}

@@ -1,0 +1,12 @@
+{
+  "birth_date": "1953-11-20",
+  "facility_id": 103,
+  "first_name": "Hubert",
+  "gender": "Male",
+  "id": 257,
+  "is_new_admission": false,
+  "last_modified_at": "2026-02-20T11:29:00",
+  "last_name": "Barker",
+  "patient_id": "FC-047",
+  "primary_payer_code": "MCA"
+}

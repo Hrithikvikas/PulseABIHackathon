@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "a.bergstrom",
+    "effective_date": "2026-05-12T07:30:00",
+    "id": 412,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Left lower leg wound site, rates 6/10.\nObjective: Wound assessment performed. Venous venous Left lower leg measures 2.2 cm x 5.4 cm x 0.6 cm.\n  Wound bed: 32% slough, 68% granulation tissue. Periwound: indurated.\n  Drainage: moderate. Odor: present, foul.\nAssessment: Venous venous Left lower leg \u2014 improving.\nPlan: Offloading boot applied. Negative pressure wound therapy initiated.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 262,
+    "pcc_note_id": 89818,
+    "sync_version": 1
+  },
+  {
+    "created_by": "t.kaczmarek",
+    "effective_date": "2026-05-15T09:00:00",
+    "id": 413,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Leftlowerleg. Meas 2.2x5.4x0.6cm. Mod serosang drainage, no odor. Wound bed 51% gran, 49% slough. Periwound macerated. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Johansson notified.",
+    "note_type": "Wound Care Progress Note",
+    "org_id": "org_facility_c",
+    "patient_id": 262,
+    "pcc_note_id": 96696,
+    "sync_version": 1
+  }
+]

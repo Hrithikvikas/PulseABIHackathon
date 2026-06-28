@@ -1,0 +1,15 @@
+[
+  {
+    "created_by": "f.morales",
+    "effective_date": "2026-05-14T18:24:00",
+    "id": 116,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Subjective: Patient reports pain at Left foot wound site, rates 9/10.\nObjective: Wound assessment performed. Diabetic diabetic Left foot measures 4.3 cm x 4.7 cm x 1.2 cm.\n  Wound bed: 59% slough, 41% granulation tissue. Periwound: macerated.\n  Drainage: heavy. Odor: present, mild.\nAssessment: Diabetic diabetic Left foot \u2014 improving.\nPlan: Foam dressing change daily. Physician notified of wound progression.",
+    "note_type": "HP Skin & Wound Note",
+    "org_id": "org_facility_a",
+    "patient_id": 77,
+    "pcc_note_id": 96042,
+    "sync_version": 1
+  }
+]

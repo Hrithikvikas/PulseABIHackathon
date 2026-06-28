@@ -1,0 +1,12 @@
+{
+  "birth_date": "1939-02-01",
+  "facility_id": 103,
+  "first_name": "Xenia",
+  "gender": "Female",
+  "id": 261,
+  "is_new_admission": false,
+  "last_modified_at": "2026-04-10T11:20:00",
+  "last_name": "Larsson",
+  "patient_id": "FC-051",
+  "primary_payer_code": "MCB"
+}

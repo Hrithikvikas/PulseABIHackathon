@@ -1,0 +1,12 @@
+{
+  "birth_date": "1930-06-22",
+  "facility_id": 101,
+  "first_name": "Emil",
+  "gender": "Male",
+  "id": 55,
+  "is_new_admission": false,
+  "last_modified_at": "2026-02-11T16:28:00",
+  "last_name": "Espinoza",
+  "patient_id": "FA-055",
+  "primary_payer_code": "MCB"
+}

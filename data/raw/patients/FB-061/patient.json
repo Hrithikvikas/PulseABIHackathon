@@ -1,0 +1,12 @@
+{
+  "birth_date": "1946-07-21",
+  "facility_id": 102,
+  "first_name": "Preston",
+  "gender": "Male",
+  "id": 181,
+  "is_new_admission": false,
+  "last_modified_at": "2026-04-01T17:34:00",
+  "last_name": "Marsh",
+  "patient_id": "FB-061",
+  "primary_payer_code": "MCB"
+}

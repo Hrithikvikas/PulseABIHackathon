@@ -1,0 +1,17 @@
+[
+  {
+    "assessment_date": "2026-05-18",
+    "assessment_type": "Weekly Wound Information Sheet",
+    "assessment_type_description": "Quarterly",
+    "completion_date": "2026-05-18",
+    "id": 34,
+    "is_current": true,
+    "org_id": "org_facility_a",
+    "patient_id": 34,
+    "pcc_assessment_id": 55034,
+    "raw_json": "{\"assessmentId\": 55034, \"assessmentDate\": \"2026-05-18\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"WOUND_INFO\", \"questions\": [{\"question\": \"Wound narrative\", \"answer\": \"Pressure Ulcer to Left heel / Measures 3.0 cm x 2.2 cm / Stage: Stage 2 / Drainage: serosanguineous, moderate\"}]}]}",
+    "status": "Complete",
+    "sync_version": 1,
+    "template_id": 3
+  }
+]

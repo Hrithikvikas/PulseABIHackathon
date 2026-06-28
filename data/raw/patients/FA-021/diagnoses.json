@@ -1,0 +1,20 @@
+[
+  {
+    "clinical_status": "active",
+    "icd10_code": "I70.234",
+    "icd10_description": "Arterial Ulcer \u2013 Right Lower Extremity",
+    "id": 53,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-05-22",
+    "patient_id": "FA-021"
+  },
+  {
+    "clinical_status": "active",
+    "icd10_code": "M81.0",
+    "icd10_description": "Age-related osteoporosis without current pathological fracture",
+    "id": 54,
+    "last_modified_at": "2026-05-22T00:52:51.177980",
+    "onset_date": "2025-04-18",
+    "patient_id": "FA-021"
+  }
+]

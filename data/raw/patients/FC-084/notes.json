@@ -1,0 +1,28 @@
+[
+  {
+    "created_by": "f.morales",
+    "effective_date": "2026-05-06T15:56:00",
+    "id": 464,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Arterial to Right lower extremity / Measures 0.7 cm x 2.0 cm / Stage: N/A\nDrainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",
+    "note_type": "Wound (IDT)",
+    "org_id": "org_facility_c",
+    "patient_id": 294,
+    "pcc_note_id": 92765,
+    "sync_version": 1
+  },
+  {
+    "created_by": "c.nakamura",
+    "effective_date": "2026-05-14T16:20:00",
+    "id": 465,
+    "is_current": true,
+    "note_label": null,
+    "note_text": "Wound note - Rightlowerex. Meas 0.7x2.0x0.7cm. Light serosang drainage, no odor. Wound bed 80% gran, 20% slough. Periwound macerated. Alginate dsg applied. Pt tolerated well. Dr. Nakamura notified.",
+    "note_type": "Wound (SPN)",
+    "org_id": "org_facility_c",
+    "patient_id": 294,
+    "pcc_note_id": 90722,
+    "sync_version": 1
+  }
+]
